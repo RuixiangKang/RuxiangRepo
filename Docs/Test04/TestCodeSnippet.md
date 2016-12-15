@@ -58,13 +58,12 @@ dfihsdiofnsdfoiweafsdnfisdofjdsiofnsdiofjsdiofndsfouisdhfndsjnfdsohfnsdijfndjnfd
  ```
  
  ### Import internal code "code_test_f#"
- [!Code-f#[snippetGetActions_f#](..\CodeSnippets\code_test_f#.fs)]
  
   ### Import internal code "code_test_java"
  [!Code-java[snippetGetActions_java](..\CodeSnippets\code_test_java.java)]
  
  ### Import internal code "code_test_c-01"
-  [!Code-c[snippetGetActions_c01](..\CodeSnippets\code_test_c-01.c)]
+  [!Code-c[snippetGetActions_c01](..\CodeSnippets\test_code_c-01.c)]
   
  ### Import internal code "code_test_c-02"
-  [!Code-c[snippetGetActions_c02](..\CodeSnippets\code_test_c-02.c)]  
+  [!Code-c[snippetGetActions_c02](..\CodeSnippets\test_code_c-02.c)]  
