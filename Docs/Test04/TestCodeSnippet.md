@@ -58,6 +58,7 @@ dfihsdiofnsdfoiweafsdnfisdofjdsiofnsdiofjsdiofndsfouisdhfndsjnfdsohfnsdijfndjnfd
  ```
  
  ### Import internal code "code_test_f#"
+ [!Code-fsharp[snippetGetActions_fsharp](..\CodeSnippets\code_test_fsharp.fs)]
  
   ### Import internal code "code_test_java"
  [!Code-java[snippetGetActions_java](..\CodeSnippets\code_test_java.java)]
