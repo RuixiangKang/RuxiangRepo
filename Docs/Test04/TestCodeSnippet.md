@@ -12,6 +12,18 @@
   On July 2
   ```
   
+  ### Normal code snippet with name
+  ```c#
+  using system
+  public class Demo
+	{
+	 public void Main()
+	 {
+	        Console.WriteLine("Hello World");
+	 }
+	}
+  ```
+  
 ### Verify codesnippet width is not wider than article body(pending)
    ```
   On July 2, an alien ship entered Earth's orbit and deployed several dozen saucer-shaped "destroyer" spacecraft, each 15 miles (24 km) wide.
@@ -44,4 +56,15 @@ dfihsdiofnsdfoiweafsdnfisdofjdsiofnsdiofjsdiofndsfouisdhfndsjnfdsohfnsdijfndjnfd
  ```
 dfihsdiofnsdfoiweafsdnfisdofjdsiofnsdiofjsdiofndsfouisdhfndsjnfdsohfnsdijfndjnfdjfndjfdhnfjdbnjfuehbfdjsdfjdnsdibn939knfoeifeknndsjkfnssssspoinknjdnjdbhbsbjsbdjsadbfjfxzcnsdjskjdjfknfdjncndfjdnjdnjdncnnnnnnjsdfudhcvdvss
  ```
+ 
+ ### Import internal code "code_test_f#"
+ [!Code-f#[snippetGetActions_f#](..\CodeSnippets\code_test_f#.fs)]
+ 
+  ### Import internal code "code_test_java"
+ [!Code-java[snippetGetActions_java](..\CodeSnippets\code_test_java.java)]
+ 
+ ### Import internal code "code_test_c-01"
+  [!Code-c[snippetGetActions_c01](..\CodeSnippets\code_test_c-01.c)]
   
+ ### Import internal code "code_test_c-02"
+  [!Code-c[snippetGetActions_c02](..\CodeSnippets\code_test_c-02.c)]  
