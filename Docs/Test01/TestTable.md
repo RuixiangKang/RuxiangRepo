@@ -8,14 +8,14 @@ You can create tables by assembling a list || of words and dividing them with hy
 ## Normal table
 | Normal table | Description          |
 | ------------- | ----------- |
-| Help      | Display the help window.|
+| 1_Help      | Display the help window.|
 | Close     | _Closes_ a window     |
 
 
 ## table with cell missing
 Cell missing  | Second Header
 ------------- | -------------
-Content Cell  | Content Cell
+2_Content Cell  | Content Cell
   | 
 Content Cell  | Content Cell
 Content Cell  | Content Cell
@@ -24,22 +24,22 @@ Content Cell  | Content Cell
 ## table with cell missing
 | table with cell missing | Description          |row3|
 | ------------- | ----------- |---------|
-| Help      | Display the help window.|
+| 3_Help      | Display the help window.|
 | Close     | _Closes_ a window     |
 
 ## table with empty row
 
 | empty row | Description          |
 | ------------- | ----------- |
-| Help      | Display the help window.|
-| Close     | _Closes_ a window     |
+|      | 4_Display the help window.|
+|      | _Closes_ a window     |
 |      |    |
 
 ## table with empty row(by desighed)
 
 |  |           |
 | ------------- | ----------- |
-| The first row is empty      | Display the help window.|
+| 5_The first row is empty      | Display the help window.|
 | Close     | _Closes_ a window     |
 
 
@@ -47,22 +47,22 @@ Content Cell  | Content Cell
 
 |   | Empty column  | Right Aligned |
 | :------------ |:---------------:| -----:|
-|       | some wordy text | $1600 |
+|       | 6_some wordy text | $1600 |
 |       | centered        |   $12 |
 |  | are neat        |    $1 |
 
 ## table with only image(s) in entire row or column
 
-| ![smile](/Image/Flower.jpg) | Only images on Row/Column |
+| ![smile](Images\flower.jpg) | Only images on Row/Column |
 | ------------- | ----------- |
-| ![smile](/Image/Flower.jpg)  | Display the help window. |
-| ![smile](/Image/Flower.jpg)  | _Closes_ a window        |
-| ![smile](/Image/Flower.jpg)    | ![smile](/Image/Flower.jpg)   |
+| ![smile](Images\flower.jpg)  | 7_Display the help window. |
+| ![smile](Images\flower.jpg)  | _Closes_ a window        |
+| ![smile](Images\flower.jpg)    | ![smile](Images\flower.jpg)   |
 
 
 
 ## Table is wider than main content
 |Table is wider than main content|Related links|Description|
 |---------------------|-------------|-----------|
-|ProjectDesignerpageqwqqqqqqqqqqqqqqqqqqqqqqqqqsdfssdsdffsdfqqqqqqqqqqqqqqqqqqqqqq|Related links|Description|
+|8_ProjectDesignerpageqwqqqqqqqqqqqqqqqqqqqqqqqqqsdfssdsdffsdfqqqqqqqqqqqqqqqqqqqqqq|Related links|Description|
 
