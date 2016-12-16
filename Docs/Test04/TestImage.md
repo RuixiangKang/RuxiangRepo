@@ -5,7 +5,9 @@
 > ![I am flower](./Images/flower.jpg "This is A/t text")
 
 ### The image displayed normal with no A/t text
-    ![](./Images/flower.jpg)
+  ![](./Images/flower.jpg)
+  ![](./Images/flower.jpg)
+  ![](./Images/flower.jpg)
     
 ### The image displayed normal with reference insert
   ![Flower][Flower]
@@ -55,7 +57,7 @@
 ## Image in alert no a/t message
 > [!WARNING] 
 > ![I am flower][111]
-> [111]: (./Images/flower.jpg)
+> [111]:(./Images/flower.jpg)
 >  Text after Image
 
 ## External image
