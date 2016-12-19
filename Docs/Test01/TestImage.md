@@ -12,7 +12,7 @@
   [Flower]: ./Images/flower.jpg
   
   ### The image displayed normal with reference insert  
-  ![001][./Images/001.jpg]
+  ![001](./Images/001.jpg)
   
   
 ### invalid insert style
