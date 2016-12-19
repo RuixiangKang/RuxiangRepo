@@ -57,7 +57,7 @@ Content Cell  | Content Cell
 | ------------- | ----------- |
 | ![smile](Images\flower.jpg)  | 7_Display the help window. |
 | ![smile](Images\flower.jpg)  | _Closes_ a window        |
-| ![smile](Images\flower.jpg)    | ![smile](Images\flower.jpg)   |
+| ![smile](Images\flower.jpg)    | ![InvalidImage](Images\flower.png)   |
 
 
 

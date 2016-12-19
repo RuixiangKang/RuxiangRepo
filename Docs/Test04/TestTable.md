@@ -6,14 +6,14 @@ Using tables in your content
 You can create tables by assembling a list || of words and dividing them with hyphens - (for the first row), and then separating each column with a pipe |:
 
 ## Normal table
-| Normal table | Description          |
+| 1_Normal table | Description          |
 | ------------- | ----------- |
 | 1_Help      | Display the help window.|
 | Close     | _Closes_ a window     |
 
 
 ## table with cell missing
-Cell missing  | Second Header
+2_Cell missing  | Second Header
 ------------- | -------------
 2_Content Cell  | Content Cell
   | 
@@ -22,14 +22,14 @@ Content Cell  | Content Cell
 
 
 ## table with cell missing
-| table with cell missing | Description          |row3|
+| 3_table with cell missing | Description          |row3|
 | ------------- | ----------- |---------|
 | 3_Help      | Display the help window.|
 | Close     | _Closes_ a window     |
 
 ## table with empty row
 
-| empty row | Description          |
+| 4_empty row | Description          |
 | ------------- | ----------- |
 |      | 4_Display the help window.|
 |      | _Closes_ a window     |
@@ -45,7 +45,7 @@ Content Cell  | Content Cell
 
 ## table with empty column
 
-|   | Empty column  | Right Aligned |
+|   | 6_Empty column  | Right Aligned |
 | :------------ |:---------------:| -----:|
 |       | 6_some wordy text | $1600 |
 |       | centered        |   $12 |
