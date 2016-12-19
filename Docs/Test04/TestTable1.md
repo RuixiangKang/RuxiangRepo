@@ -21,11 +21,11 @@ Content Cell  | Content Cell
 Content Cell  | Content Cell
 
 
-## table with cell missing
-| table with cell missing | Description          |row3|
+## table with empty column
+| table with cell missing | Description          ||
 | ------------- | ----------- |---------|
-| 3_Help      | Display the help window.|
-| Close     | _Closes_ a window     |
+| 3_Help      | Display the help window.| |
+| Close     | _Closes_ a window     |  |
 
 ## table with empty row
 
