@@ -19,8 +19,18 @@
 ### video with type of link (invalid url) 
 [InvalidVideo](https://sec.ch9.ms/ch9/07d5474f-4235-4d89-90bc-ed008b98f882/WAMFAAnnimated.mp4) 
 
-### Another md syntax foe inserting video
+### Another md syntax foe inserting video(normal-01)
 > [!VIDEO https://channel9.msdn.com/Events/TechEd/Europe/2014/EM-B313/player]
+>
+>
+
+### Another md syntax foe inserting video(normal-02)
+> [!VIDEO https://www.youtube.com/embed/iyT1uILEI2U]
+>
+>
+
+### Another md syntax foe inserting video(normal-03)
+> [!VIDEO https://sec.ch9.ms/ch9/f882/07d5474f-4235-4d89-90bc-ed008b98f882/WAMFAAnnimated_high.mp4]
 >
 >
 
