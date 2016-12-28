@@ -1,10 +1,10 @@
 # Image
 
-### The image displayed normal with A/t text
+### The image displayed normal with Alt text
 
 > ![I am flower](./Images/flower.jpg "This is A/t text")
 
-### The image displayed normal with no A/t text
+### The image displayed normal with no Alt text
   ![](./Images/flower.jpg)
   ![](./Images/flower.jpg)
   ![](./Images/flower.jpg)
@@ -40,10 +40,10 @@
 ## Image in alert
 > [!NOTE] 
 >  Text before Image 
-> ![I am flower](./Images/flower.jpg "This is A/t text")
+> ![I am flower](./Images/flower.jpg "This is Alt text")
 >  Text after Image
 
-## Image in alert no a/t message
+## Image in alert no alt message
 > [!WARNING] 
 > ![I am flower](./Images/flower.jpg)
 >  Text after Image
@@ -51,10 +51,10 @@
 ## image in alert with no title
 > [!TIP] 
 >  Text before Image 
-> ![](./Images/flower.jpg "This is A/t text")
+> ![](./Images/flower.jpg "This is Alt text")
 
 
-## Image in alert no a/t message
+## Image in alert no alt message
 > [!WARNING] 
 > ![I am flower][111]
 > [111]:(./Images/flower.jpg)
