@@ -33,22 +33,19 @@ ms.suite: ems
 * bbb
 * 
 * ccc
-### Bulleted list start with "*" 
-* aaa
-* bbb
-* ccc
-## Bulleted list start with "+"
-+ aaa
-+ bbb
-+ ccc
-## Bulleted list start with "-"
-- aaa
-- bbb
-- ccc
-## Bulleted list start with "*+-" 
+### Bulleted list start with "*+-" 
 * aaa
 + bbb
 - ccc
+*   ```On July 3, the Black Knights, a squadron of Marine Corps F/A-18 Hornets, participated```
++ 
+
+
+
+### Verify error when no indenting after "*"/"+"/"-" 
+*aaa
+*bbb
+*ccc
 
 ## Ordered list
 ### ordered list with empty item
@@ -56,16 +53,24 @@ ms.suite: ems
 2. 
 3. bbb
 4. ccc
-### Verify Start with number and a dot(true)
+### Verify nested list
 1. aaa
+	* bbb
+	* eee
+	*  ![Flower](/Image/Flower.jpg)
+3. ccc
+	7. hhh
+	9. kkk
+### Verify Image list
+1.  ![Flower](/Image/Flower.jpg)
+2. aaaa
+3. 
+4. cccc
+### Verify list nested alert
+1. aaa
+	>3. > [!NOTE] 
+		> Sample Notification Message
+	>2. > [!WARNING] 
+		> Sample Warning Message
+2. 
 2. bbb
-3. ccc
-### Verify Start with number and a dot(false)
-1. aaa
-2, bbb
-3. ccc
-### Start with 3.7.9.
-3. aaa
-7. bbb
-9. ccc
- 
