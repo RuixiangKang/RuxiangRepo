@@ -1,5 +1,5 @@
 {
-  "build_entry_point": "op",
+  "build_entry_point": "docs",
   "need_generate_pdf": false,
   "need_generate_intellisense": false,
   "docsets_to_publish": [
@@ -9,7 +9,7 @@
       "build_output_subfolder": "Docs/Test01",
       "locale": "en-us",
       "version": 0,
-      "open_to_public_contributors": false,
+      "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content"
       },
@@ -21,7 +21,7 @@
       "build_output_subfolder": "Docs/Test02",
       "locale": "en-us",
       "version": 0,
-      "open_to_public_contributors": false,
+      "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content"
       },
@@ -33,7 +33,7 @@
       "build_output_subfolder": "Docs/Test03",
       "locale": "en-us",
       "version": 0,
-      "open_to_public_contributors": false,
+      "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content"
       },
@@ -45,7 +45,7 @@
       "build_output_subfolder": "Docs/Test04",
       "locale": "en-us",
       "version": 0,
-      "open_to_public_contributors": false,
+      "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content"
       },
@@ -58,7 +58,7 @@
       "build_output_subfolder": "Docs/Test05",
       "locale": "en-us",
       "version": 0,
-      "open_to_public_contributors": false,
+      "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content"
       },
@@ -71,7 +71,7 @@
       "build_output_subfolder": "Docs/Test06",
       "locale": "en-us",
       "version": 0,
-      "open_to_public_contributors": false,
+      "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content"
       },
@@ -84,7 +84,7 @@
       "build_output_subfolder": "Docs/Test07",
       "locale": "en-us",
       "version": 0,
-      "open_to_public_contributors": false,
+      "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content"
       },
@@ -97,7 +97,7 @@
       "build_output_subfolder": "Docs/Test08",
       "locale": "en-us",
       "version": 0,
-      "open_to_public_contributors": false,
+      "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content"
       },
@@ -110,7 +110,7 @@
       "build_output_subfolder": "Docs/Test09",
       "locale": "en-us",
       "version": 0,
-      "open_to_public_contributors": false,
+      "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content"
       },
@@ -122,12 +122,11 @@
       "build_output_subfolder": "Docs/Test10",
       "locale": "en-us",
       "version": 0,
-      "open_to_public_contributors": false,
+      "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content"
       },
-      "build_entry_point": "docs",
-      "template_folder": "_themes"
+      "build_entry_point": "docs"
     }
   ],
   "notification_subscribers": [
