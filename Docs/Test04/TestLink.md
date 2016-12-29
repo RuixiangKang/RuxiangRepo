@@ -1,14 +1,12 @@
 # Link
 
-**This File Need To Be Named As 'Link.md'**
-
 | Link | Is Vaild | Markdown Style | Is Bookmark | Domain |
 |:----:|:--------:|:--------------:|:-----------:|:-----------:|
 | [Link1](#BookMarkTarget) | true | in line | true | Internal |
 | [Link2](https://www.google.com#sbtc) | false | in line | true | Internal |
 | [Link3][VaildInternalBookMark] | true | reference | true | Internal |
 | [Link4][InvaildInternalBookMark] | false | reference | true | Internal |
-| [Link5](Link.md) | true | in line | false | Internal |
+| [Link5](TestLink.md) | true | in line | false | Internal |
 | [Link6](/123/456) | false | in line | false | Internal |
 | [Link7](https://www.google.com#sbtc) | true | in line | true | External |
 | [Link8](https://www.google.com#UnavaliableBookMark) | false | in line | true | External |
@@ -23,7 +21,7 @@
 
 ## BookMarkTarget
 
-[VaildInternalLink]: Link.md 
+[VaildInternalLink]: TestLink.md 
 [InvaildInternalLink]: /123/456  
 [VaildExternalLink]: https://www.google.com/  
 [InvaildExternalLink]: https://www.google.com/404
