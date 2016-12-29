@@ -15,6 +15,9 @@
 > [!CAUTION] 
 > Nest with Internal Link [BookMark](#Alert without message)  
 
+## Alert with Link only
+> [!WARNING] 
+> [baidu](http://www.baidus.com/) 
 
 ## Alert with Image
 > [!NOTE] 
@@ -38,13 +41,29 @@
 > invalid Image source
 > ![flower](./Images/flowers.jpg)
 
-## Alert with code
+## Alert with image only
+> [!TIP]
+> ![](./Images/flower.jpg)
+
+## Alert with image &code only
+> [!TIP]
+> ![](./Images/flower.jpg)
+>```
+> On July 2, an alien ship entered Earth's orbit and deployed several dozen saucer-shaped "destroyer" spacecraft, each 15 miles (24 km) wide.  
+>  On July 3, the Black Knights, a squadron of Marine Corps F/A-18 Hornets, participated 
+>```
+
+
+> [!TIP]
+> ![I am flower](./Images/flower.jpg "This is A/t text")
+
+## Alert with code only
 > [!NOTE] 
 >```
 > On July 2, an alien ship entered Earth's orbit and deployed several dozen saucer-shaped "destroyer" spacecraft, each 15 miles (24 km) wide.
-  
 >  On July 3, the Black Knights, a squadron of Marine Corps F/A-18 Hornets, participated 
 >```
+
 ## Alert with code & text
 >[!NOTE]  
 >This part is text!
