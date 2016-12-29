@@ -106,11 +106,22 @@
 >7. bbb
 >9. ccc
 
-## Alert with list only
+## Alert with list OL only
 > [!WARNING]  
 >* aaa
 >* bbb
 >* ccc
+
+## Alert with null <P>
+> [!WARNING]  
+>
+
+
+## Alert with list only> [!WARNING] 
+>1. aaa
+>2. bbb
+>3. ccc
+
 
 ## Alert with table
 > [!NOTE] 
