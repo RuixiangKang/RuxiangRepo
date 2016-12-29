@@ -106,6 +106,12 @@
 >7. bbb
 >9. ccc
 
+## Alert with list only
+> [!WARNING]  
+>* aaa
+>* bbb
+>* ccc
+
 ## Alert with table
 > [!NOTE] 
 > Normal table
@@ -113,6 +119,11 @@
 >|-------|------- |------- |
 >|1|2|3|
 
+## Alert with table only
+> [!NOTE]
+>|1|2|3|
+>|-------|------- |------- |
+>|1|2|3|
 
 > [!WARNING] 
 >table with cell missing
