@@ -114,10 +114,10 @@
 
 ## Alert with null <P>
 > [!WARNING]  
->
+> <P>
 
-
-## Alert with list only> [!WARNING] 
+## Alert with list only
+> [!WARNING] 
 >1. aaa
 >2. bbb
 >3. ccc
