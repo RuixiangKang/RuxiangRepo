@@ -27,6 +27,25 @@ Content Cell  | Content Cell
 | 3_Help      | Display the help window.|
 | Close     | _Closes_ a window     |
 
+##Table with cell missing
+<table>
+<thead>
+<tr>
+<th>Normal table</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1_Help</td>
+<td>Display the help window.</td>
+</tr>
+<tr>
+<td>Close</td>
+</tr>
+</tbody>
+</table>
+
 ## table with empty row
 
 | 4_empty row | Description          |
@@ -50,6 +69,14 @@ Content Cell  | Content Cell
 |       | 6_some wordy text | $1600 |
 |       | centered        |   $12 |
 |  | are neat        |    $1 |
+
+
+## table with empty column
+
+| 6_Empty column  |   |  |
+| :------------ |:---------------:| -----:|
+|  6_some wordy text     |  |  |
+| are neat |         |    |
 
 ## table with empty Row and column
 
