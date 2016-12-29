@@ -51,6 +51,14 @@ Content Cell  | Content Cell
 |       | centered        |   $12 |
 |  | are neat        |    $1 |
 
+## table with empty Row and column
+
+| 6_Empty column  |   |  |
+| :------------ |:---------------:| -----:|
+|  6_some wordy text     |  |  |
+|      |         |    |
+| are neat |         |    |
+
 ## table with only image(s) in entire row or column
 
 | ![smile](Images\flower.jpg) | Only images on Row/Column |
