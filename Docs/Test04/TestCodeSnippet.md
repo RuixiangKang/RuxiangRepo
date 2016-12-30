@@ -34,6 +34,10 @@
 | ------------- | ----------- |
 | [!Code-fsharp[snippetGetActions_fsharp](.\CodeSnippets\code_test_fsharp.fs)]    | [!Code-fsharp[snippetGetActions_fsharp](.\CodeSnippets\code_test_fsharp.fs)] |
 
+>### Import sample code "code_test_f#" 
+| [!Code-c[snippetGetActions_empty](.\CodeSnippets\emptycode)]  | [!Code-fsharp[snippetGetActions_fsharp](.\CodeSnippets\code_test_fsharp.fs)]       |
+| ------------- | ----------- |
+| [!Code-c[snippetGetActions_c02](./CodeSnippets/test_code_c-02.c)]      | [!Code-c[snippetGetActions_c01](.\CodeSnippets\test_code_c-01.c)] |
 
 ### Normal code snippet in list
 >1. This is list.
@@ -42,6 +46,12 @@
 >On July 2 
 >```
 
+### code snippet in list(long code)
+>1. This is list.
+>2. 
+>``` 
+>On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 
+>```
 
 ### Normal code snippet in list(Only code)
 >1. 
@@ -49,12 +59,24 @@
 >On July 2 
 >```
 
+### Normal code snippet in list(Only code and long code)
+>1. 
+>`` 
+>On July 2 On July 2On July 2On July 2On July 2On July 2On July 2On July 2On July 2On July 2On July 2On July 2On July 2On July 2On July 2On July 2On July 2On July 2On July 2On July 2On July 2On July 2On July 2On July 2
+>```
 
 ### Normal code snippet in table(Only code)
 >||
 >|----|
 >|```
 >On July 2 
+>```|
+
+### Normal code snippet in table(Only code and long code)
+>||
+>|----|
+>|```
+>On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 
 >```|
   
 
