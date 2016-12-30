@@ -24,8 +24,9 @@
 >[!NOTE]
 >[!Codefsharp[snippetGetActions_fsharp](.\CodeSnippets\code_test_fsharp.fs)] 
  
->### Import sample code "code_test_f#" 
+>### Import sample code 
 >[!NOTE]
+>1. 
 >``` 
 >On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 On July 2 
 >``` 
@@ -60,13 +61,13 @@
 
 ### Normal code snippet in list(Only code)
 >1. 
->`` 
+>``` 
 >On July 2 
 >```
 
 ### Normal code snippet in list(Only code and long code)
 >1. 
->`` 
+>``` 
 >On July 2 On July 2On July 2On July 2On July 2On July 2On July 2On July 2On July 2On July 2On July 2On July 2On July 2On July 2On July 2On July 2On July 2On July 2On July 2On July 2On July 2On July 2On July 2On July 2
 >```
 
