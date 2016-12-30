@@ -1,7 +1,7 @@
 ---
 # required metadata
 
-title: TTTTTTTTTTTTTTTTTAnomaly detection policy | Microsoft DocsSG
+title: sgTTTTTTTTTTTTTTTTTAnomaly detection policy | Microsoft Docs
 description: This topic provides a description of Anomaly detection policies and provides reference information about the building blocks of an anomaly detection policy.
 keywords:
 author: rkarlin
