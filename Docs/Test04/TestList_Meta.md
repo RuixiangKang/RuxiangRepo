@@ -1,17 +1,17 @@
 ---
 # required metadata
 
-title: Anomaly detection policy | Microsoft Docs
+title: TTTTTTTTTTTTTTTTTAnomaly detection policy | Microsoft DocsSG
 description: This topic provides a description of Anomaly detection policies and provides reference information about the building blocks of an anomaly detection policy.
 keywords:
-author: rkarlin
+author: rkarlin | mbaldwin
 ms.author: rkarlin
 manager: mbaldwin
 ms.date: 11/6/2016
 ms.topic: article
-ms.prod:
+ms.prod: article
 ms.service: cloud-app-security
-ms.technology:
+ms.technology: article
 ms.assetid: ab9bc377-d2f5-4f4c-a419-f1728a15d1c7
 
 # optional metadata
@@ -33,6 +33,8 @@ ms.suite: ems
 * bbb
 * 
 * ccc
+
+
 ### Bulleted list start with "*+-" 
 * aaa
 + bbb
@@ -43,9 +45,11 @@ ms.suite: ems
 
 
 ### Verify error when no indenting after "*"/"+"/"-" 
-*aaa
-*bbb
-*ccc
+* aaa
+	1. test1
+	2. test2			
+* bbb
+* ccc
 
 ## Ordered list
 ### ordered list with empty item
@@ -53,24 +57,28 @@ ms.suite: ems
 2. 
 3. bbb
 4. ccc
+
+
 ### Verify nested list
 1. aaa
-	* bbb
-	* eee
-	*  ![Flower](/Image/Flower.jpg)
+	* ![I am flower](./Images/flower.jpg "This is A/t text")
+	* ![I am flower](./Images/flower.jpg "This is A/t text")
+	* 
 3. ccc
 	7. hhh
 	9. kkk
+	
+	
 ### Verify Image list
-1.  ![Flower](/Image/Flower.jpg)
+1. ![I am flower](./Images/flower.jpg "This is A/t text")
 2. aaaa
 3. 
 4. cccc
+
+
 ### Verify list nested alert
 1. aaa
-	>3. > [!NOTE] 
-		> Sample Notification Message
-	>2. > [!WARNING] 
-		> Sample Warning Message
+	3. > [!NOTE] Sample Notification Message
+	2. > [!WARNING] Sample Warning Message
 2. 
 2. bbb
