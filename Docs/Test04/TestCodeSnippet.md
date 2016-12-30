@@ -12,6 +12,48 @@
   On July 2
   ```
   
+  
+### Normal code snippet in alert (only code)
+>[!Note]
+>``` 
+>On July 2 
+>```
+  
+>### Import internal code "code_test_f#" 
+>[!NOTE]
+>[!Code-fsharp[snippetGetActions_fsharp](.\CodeSnippets\code_test_fsharp.fs)] 
+ 
+>### Import internal code "code_test_f#" 
+>1. [!Code-fsharp[snippetGetActions_fsharp](.\CodeSnippets\code_test_fsharp.fs)] 
+
+>### Import internal code "code_test_f#" 
+>||
+>|---|
+>[!Code-fsharp[snippetGetActions_fsharp](.\CodeSnippets\code_test_fsharp.fs)] 
+ 
+### Normal code snippet in list
+>1. This is list.
+>2. 
+>``` 
+>On July 2 
+>```
+### Normal code snippet in list(Only code)
+>1. 
+>`` 
+>On July 2 
+>```
+### Normal code snippet in table(Only code)
+>||
+>|----|
+>|```
+>On July 2 
+>```|
+  
+### Normal code snippet with no scrollbar  
+```  
+On July 2 
+```
+  
   ### Normal code snippet with name
   ```c#
   using system
