@@ -13,9 +13,9 @@ You can create tables by assembling a list || of words and dividing them with hy
 
 
 ## Video test
-### Internal mp4 format video </br>
-![Video test](Images\movie.mp4)
-### External mp4 format video </br>
-![Video test](http://www.runoob.com/try/demo_source/movie.mp4)
+### MD mp4 video </br>
+[![Video test](Images\flower.mp4)](http://www.runoob.com/try/demo_source/movie.mp4 "Everything Is AWESOME")
+### html mp4 video </br>
+<iframe  title="mp4 test" width="480" height="390" src="http://www.runoob.com/try/demo_source/movie.mp4" frameborder="0" allowfullscreen></iframe>
 ### External mp4 format video </br>
 [!VIDEO https://sec.ch9.ms/ch9/f882/07d5474f-4235-4d89-90bc-ed008b98f882/WAMFAAnnimated_high.mp4]
