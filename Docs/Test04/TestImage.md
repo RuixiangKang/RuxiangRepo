@@ -87,5 +87,7 @@
 2. bbb
 
 
+[comment]: <> (![INT access rules (inbound)](./Images/flower.png))
+[comment]: <> (![INT access rules (outbound)](./Images/flowerssss.png))
 
 
