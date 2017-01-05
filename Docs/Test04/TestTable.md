@@ -1,5 +1,7 @@
-
-
+---
+# required metadata
+title: You can create tables by assembling a list of words and dividing them with hyphens | Microsoft Docs
+---
 
 Using tables in your content
 ---
