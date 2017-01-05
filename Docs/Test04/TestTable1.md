@@ -1,5 +1,7 @@
-
-
+---
+# required metadata
+title: You can create tables by a list | Microsoft Docs
+---
 
 Using tables in your content
 ---
