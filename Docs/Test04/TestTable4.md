@@ -1,68 +1,28 @@
 
 
 
-Using tables in your content
----
-You can create tables by assembling a list || of words and dividing them with hyphens - (for the first row), and then separating each column with a pipe |:
+[bookmark](https://github.com/gulpjs/gulp/blob/master/docs/API.md#gulpsrcglobs-options)
 
-## Normal table
-| Normal table | Description          |
-| ------------- | ----------- |
-| 1_Help      | Display the help window.|
-| Close     | _Closes_ a window     |
+[bookmark](http://docs.asp.net/projects/api/en/latest/autoapi/Microsoft/AspNetCore/Http/IFormFile/index.html.md#Microsoft.AspNetCore.Http.IFormFile.md)
 
+[bookmark](https://tools.ietf.org/html/rfc4648#section-5)
 
-## table with cell missing
-Cell missing  | Second Header
-------------- | -------------
-2_Content Cell  | Content Cell
-  | 
-Content Cell  | Content Cell
-Content Cell  | Content Cell
+[bookmark](https://www.github.com/omnisharp/generator-aspnet#sub-generators)
 
+[bookmark](http://mvc.readthedocs.org/en/latest/views/tag-helpers/authoring.html#avoiding-tag-helper-conflicts)
 
-## table with cell missing
-| table with cell missing | Description          |row3|
-| ------------- | ----------- |---------|
-| 3_Help      | Display the help window.|
-| Close     | _Closes_ a window     |
+[bookmark](https://tools.ietf.org/html/rfc6455#section-4.2.2)
 
-## table with empty row
+[bookmark](https://tools.ietf.org/html/rfc2616.html#section-14.42)
 
-| empty row | Description          |
-| ------------- | ----------- |
-|      | 4_Display the help window.|
-|      | _Closes_ a window     |
-|      |    |
+[bookmark](http://docs.asp.net/projects/api/en/latest/autoapi/Microsoft/AspNetCore/Builder/IApplicationBuilder/index.html#Microsoft.AspNetCore.Builder.IApplicationBuilder.md)
 
-## table with empty row(by desighed)
+[bookmark](http://docs.asp.net/projects/api/en/latest/autoapi/Microsoft/AspNetCore/Http/Features/IFeatureCollection/index.html#Microsoft.AspNetCore.Http.Features.IFeatureCollection.md)
 
-|  |           |
-| ------------- | ----------- |
-| 5_The first row is empty      | Display the help window.|
-| Close     | _Closes_ a window     |
+[bookmark](http://docs.asp.net/projects/api/en/latest/autoapi/Microsoft/AspNetCore/Hosting/Server/Features/IServerAddressesFeature/index.html#Microsoft.AspNetCore.Hosting.Server.Features.IServerAddressesFeature.md)
 
+[bookmark](http://docs.asp.net/projects/api/en/latest/autoapi/Microsoft/AspNetCore/Hosting/Server/IServer/index.html#Microsoft.AspNetCore.Hosting.Server.IServer.md)
 
-## table with empty column
+[bookmark](https://tools.ietf.org/html/rfc7234#section-5.2)
 
-|   | Empty column  | Right Aligned |
-| :------------ |:---------------:| -----:|
-|       | 6_some wordy text | $1600 |
-|       | centered        |   $12 |
-|  | are neat        |    $1 |
-
-## table with only image(s) in entire row or column
-
-| ![smile](Images\flower.jpg) | Only images on Row/Column |
-| ------------- | ----------- |
-| ![smile](Images\flower.jpg)  | 7_Display the help window. |
-| ![smile](Images\flower.jpg)  | _Closes_ a window        |
-| ![smile](Images\flower.jpg)    | ![smile](Images\flower.jpg)   |
-
-
-
-## Table is wider than main content
-|Table is wider than main content|Related links|Description|
-|---------------------|-------------|-----------|
-|8_ProjectDesignerpageqwqqqqqqqqqqqqqqqqqqqqqqqqqsdfssdsdffsdfqqqqqqqqqqqqqqqqqqqqqq|Related links|Description|
-
+[bookmark](https://github.com/Moq/moq4/wiki/Quickstart#customizing-mock-behavior)
