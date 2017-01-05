@@ -1,17 +1,3 @@
----
-# required metadata
-title: ctables by assembling a list of words and dividing them with hyphens | Microsoft Docs
----
-
-Using tables in your content
----
-You can create tables by assembling a list || of words and dividing them with hyphens - (for the first row), and then separating each column with a pipe |:
-
-## Normal table
-| Normal table | Description          |
-| ------------- | ----------- |
-| 1_Help      | Display the help window.|
-| Close     | _Closes_ a window     |
 
 
 ## Video test
@@ -23,3 +9,9 @@ You can create tables by assembling a list || of words and dividing them with hy
 <iframe width="480" height="390" src="https://sec.ch9.ms/ch9/f882/07d5474f-4235-4d89-90bc-ed008b98f882/WAMFAAnnimated_high.mp4" frameborder="0" allowfullscreen></iframe>
 ### External format video </br>
 <iframe width="420" height="315" src="https://www.youtube.com/embed/iyT1uILEI2U" frameborder="0" allowfullscreen></iframe>
+
+
+[1](https://www.microsoft.com/web/downloads/platform.aspx)
+[](https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man8/sudo.8.html)
+[](http://tools.ietf.org/html/rfc6454)
+[](https://tools.ietf.org/html/rfc7234#section-3)
