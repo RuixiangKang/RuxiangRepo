@@ -22,7 +22,7 @@
 </thead>
 <tbody>
 <tr>
-<td><iframe width="420" height="315" src="https://www.youtube.com/embed/iyT1uILEI2U" frameborder="0" allowfullscreen></iframe>
+<td><iframe width="420" height="315" src="https://www.youtube.com/embed/iyT1uILEI2U" frameborder="0" allowfullscreen></iframe></td>
 <td>test</td>
 </tr>
 <tr>
