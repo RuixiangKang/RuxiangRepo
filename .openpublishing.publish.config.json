@@ -120,7 +120,7 @@
       "docset_name": "Test10",
       "build_source_folder": "Docs/Test10",
       "build_output_subfolder": "Docs/Test10",
-      "locale": "en-us",
+      "locale": "zh-cn",
       "version": 0,
       "open_to_public_contributors": true,
       "type_mapping": {
@@ -166,6 +166,12 @@
     {
       "path_to_root": "_themes.OPS",
       "url": "https://github.com/Microsoft/templates.starterkit",
+      "branch": "master",
+      "branch_mapping": {}
+    },
+    {
+      "path_to_root": "_themes",
+      "url": "https://github.com/Microsoft/templates.docs.msft.zh-cn",
       "branch": "master",
       "branch_mapping": {}
     }
