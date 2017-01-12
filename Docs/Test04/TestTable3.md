@@ -1,109 +1,109 @@
 
 ## false positive link test
 
-[msdn](http://msdn.microsoft.com/en-us/library/system.componentmodel.dataannotations.aspx)
+[hadoopsdk.codeplex.com](https://hadoopsdk.codeplex.com/wikipage?title=Avro%20Library)
 
-[msdn](http://msdn.microsoft.com/en-us/library/vstudio/wyzd2bce.aspx)
+[cwiki.apache.org](https://cwiki.apache.org/confluence/display/Hive/LanguageManual+Cli)
 
-[msdn](http://msdn.microsoft.com/en-us/library/system.componentmodel.dataannotations.aspx)
+[cwiki.apache.org](https://cwiki.apache.org/confluence/display/AMBARI/Views)
 
-[msdn](https://msdn.microsoft.com/en-us/library/windows/desktop/aa364510.aspx)
+[azure.microsoft.com](https://azure.microsoft.com/services/data-factory/)
 
-[msdn](https://msdn.microsoft.com/en-us/library/system.xml.linq.xelement(v=vs.110).aspx)
+[marketplace.visualstudio.com](https://marketplace.visualstudio.com/items?itemName=ms-azuredevtestlabs.tasks)
 
-[msdn](http://msdn.microsoft.com/en-us/library/system.componentmodel.dataannotations.emailaddressattribute(v=vs.110).aspx)
+[functions.azure.com](https://functions.azure.com/)
 
-[msdn](https://msdn.microsoft.com/en-us/library/system.security.cryptography.x509certificates.x509certificate2(v=vs.110).aspx)
+[functions.azure.com](https://functions.azure.com/signin)
 
-[link](https://dev.windows.com/en-us/microsoft-edge/platform/documentation/f12-devtools-guide/)
+[https://resources.azure.com/](https://resources.azure.com/)
 
-[link](http://msdn.microsoft.com/en-us/library/vstudio/wyzd2bce.aspx)
+[http://go.microsoft.com/fwlink/?linkid=518003](http://go.microsoft.com/fwlink/?linkid=518003)
 
-[link](http://redis.io/)
+[http://go.microsoft.com/fwlink/?LinkId=699287](http://go.microsoft.com/fwlink/?LinkId=699287)
 
-[link](http://chocolatey.org/packages/redis-64/)
+[http://go.microsoft.com/fwlink/?LinkID=324322](http://go.microsoft.com/fwlink/?LinkID=324322)
 
-[link](https://console.developers.google.com/projectselector/apis/library)
+[blogs.msdn.com](http://blogs.msdn.com/b/windowsazure/archive/2013/07/17/windows-azure-web-sites-how-application-strings-and-connection-strings-work.aspx)
 
-[link](https://www.microsoft.com/en-us/download/details.aspx?id=53840)
+[msdn.microsoft.com](http://msdn.microsoft.com/library/azure/dn232347.aspx)
 
-[link](https://www.microsoft.com/web/downloads/platform.aspx)
+[http://aka.ms/logicappsblog](http://aka.ms/logicappsblog)
 
-[link](https://www.microsoft.com/en-us/download/details.aspx?id=43717)
+[stable.release.core-os.net](https://stable.release.core-os.net/amd64-usr/current/coreos_production_azure_image.vhd.bz2)
 
-[link](http://sidewaffle.com/)
+[confluence.atlassian.com](https://confluence.atlassian.com/display/BITBUCKET/Create+an+Account+and+a+Git+Repo)
 
-[link](https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man8/sudo.8.html)
+[blogs.msdn.com](http://blogs.msdn.com/b/windowsazure/archive/2013/03/19/new-deploy-to-windows-azure-web-sites-from-dropbox.aspx)
 
-[link](http://tools.ietf.org/html/rfc6454)
+[https://deploy.azure.com/](https://deploy.azure.com/)
 
-[link](http://msdn.microsoft.com/en-us/library/system.componentmodel.dataannotations.aspx)
+[www.microsoft.com](https://www.microsoft.com/en-us/evalcenter/evaluate-sql-server-2016)
 
-[link](https://dev.windows.com/en-us/microsoft-edge/platform/documentation/f12-devtools-guide/)
+[github.com](https://github.com/Azure/azure-quickstart-templates/search?utf8=%E2%9C%93&q=%22functionApp%22&type=Code)
 
-[link](https://dev.windows.com/en-us/microsoft-edge/platform/documentation/f12-devtools-guide/)
+[marketplace.visualstudio.com](https://marketplace.visualstudio.com/items/ms-appinsights.appinsightsreleaseannotations)
 
-[link](https://apps.dev.microsoft.com/)
+[docs.alertlogic.com](https://docs.alertlogic.com/userGuides/log-manager-collection-sources.htm)
 
-[link](https://www.microsoft.com/en-us/download/details.aspx?id=28567)
+[http://aka.ms/webpi-azps](http://aka.ms/webpi-azps)
 
-[link](https://go.microsoft.com/fwlink/?LinkId=827545)
+[www.oracle.com](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 
-[link](http://social.msdn.microsoft.com/forums/en-US/adodotnetentityframework/threads/)
+[cwiki.apache.org](https://cwiki.apache.org/confluence/display/Hive/Hive+on+Tez)
 
-[link](https://technet.microsoft.com/library/jj554906)
+[www.hl7.org](http://www.hl7.org/implement/standards/fhir/)
 
-[](https://support.microsoft.com/en-us/kb/820129)
+[www.oracle.com](http://www.oracle.com/technetwork/topics/dotnet/downloads/)
 
-[bookmark](http://docs.asp.net/projects/api/en/latest/autoapi/Microsoft/AspNetCore/Hosting/WebHostBuilderKestrelExtensions/index.html#Microsoft.AspNetCore.Hosting.WebHostBuilderWebListenerExtensions.UseWebListener.md)
+[http://go.microsoft.com/fwlink/p/?LinkId=272456](http://go.microsoft.com/fwlink/p/?LinkId=272456)
 
-[bookmark](http://docs.asp.net/projects/api/en/latest/autoapi/Microsoft/AspNetCore/Hosting/WebHostBuilder/index.html#Microsoft.AspNetCore.Hosting.WebHostBuilder.md)
+[https://issues.apache.org/jira/browse/HIVE-8306](https://issues.apache.org/jira/browse/HIVE-8306)
 
-[link](https://github.com/aspnet/WebListener/blob/dev/src/Microsoft.AspNetCore.Server.WebListener/WebListenerOptions.cs)
+[https://account.microsoft.com/](https://account.microsoft.com/)
 
-[link](https://github.com/aspnet/WebListener/blob/dev/src/Microsoft.Net.Http.Server/WebListenerSettings.cs)
+[https://www.microsoft.com/download/details.aspx?id=50395](https://www.microsoft.com/download/details.aspx?id=50395)
 
-[link](https://support.microsoft.com/en-us/kb/820129)
+[https://www.mobizen.com/](https://www.mobizen.com/)
 
-[link](http://www.stevestechspot.com/ABetterHttpcfg.aspx)
+[marketplace.visualstudio.com](https://marketplace.visualstudio.com/items?itemName=msazurermtools.azurerm-vscode-tools)
 
-[link](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp)
+[www.opm.gov](https://www.opm.gov/investigations/background-investigations/federal-investigations-notices/1997/fin97-02/)
 
-[link](https://www.visualstudio.com/products/visual-studio-team-services-vs)
+[https://resources.azure.com/](https://resources.azure.com/)
 
-[link](https://marketplace.visualstudio.com/items?itemName=Trackyon.trackyonadvantage)
+[https://community.qualys.com/docs/](https://community.qualys.com/docs/DOC-5823-deploying-qualys-cloud-agents-from-microsoft-azure-security-center)
 
-[link](https://marketplace.visualstudio.com/items?itemName=Trackyon.trackyonadvantage)
+[www.visualstudio.com](https://www.visualstudio.com/en-us/features/rtvs-vs.aspx)
 
-[link](https://msdn.microsoft.com/en-us/library/system.resources.resourcemanager(v=vs.110).aspx)
+[www.revolutionanalytics.com](http://www.revolutionanalytics.com/revolution-r-open)
 
-[link](https://msdn.microsoft.com/library/hh506876)
+[www.revolutionanalytics.com](http://www.revolutionanalytics.com/revolution-r-enterprise-scaler)
 
-[bookmark](http://docs.asp.net/projects/api/en/latest/autoapi/Microsoft/AspNetCore/Hosting/WebHostBuilder/index.html#Microsoft.AspNetCore.Hosting.WebHostBuilder.md)
+[https://sesitai.codeplex.com/](https://sesitai.codeplex.com/)
 
-[link](http://www.twilio.com/)
+[https://issues.apache.org/jira/browse/SPARK-12081](https://issues.apache.org/jira/browse/SPARK-12081)
 
-[link](https://msdn.microsoft.com/en-us/library/system.security.cryptography.xml.encryptedxml(v=vs.110).aspx)
+[https://issues.apache.org/jira/browse/SPARK-2356](https://issues.apache.org/jira/browse/SPARK-2356)
 
-[link](http://www.linkedin.com/in/mattperdeck)
+[www.microsoft.com](https://www.microsoft.com/en-us/evalcenter/evaluate-sql-server-2016)
 
-[link](https://msdn.microsoft.com/library/system.web.ihttpmodule.aspx)
+[http://www.symbolsource.org/Public/Wiki/Using](http://www.symbolsource.org/Public/Wiki/Using)
 
-[link](https://msdn.microsoft.com/library/system.web.httpapplication.beginrequest.aspx)
+[http://www.telstra.com.au/](http://www.telstra.com.au/business-enterprise/network-services/networks/cloud-direct-connect/)
 
-[link](https://msdn.microsoft.com/library/system.web.httpapplication.authenticaterequest.aspx)
+[https://functions.azure.com/try](https://functions.azure.com/try)
 
-[link](https://msdn.microsoft.com/library/system.web.httpcontext.aspx)
+[http://partnerweb.vmware.com/GOSIG/home.html](http://partnerweb.vmware.com/GOSIG/home.html)
 
-[bookmark](https://github.com/aspnet/Routing/blob/1.0.0/src/Microsoft.AspNetCore.Routing/RequestDelegateRouteBuilderExtensions.cs#L85-L88)
+[kb.vmware.com](https://kb.vmware.com/selfservice/microsites/search.do?&cmd=displayKC&externalId=1017658)
 
-[bookmark](https://tools.ietf.org/html/rfc7234#section-3)
+[www.vodafone.com](http://www.vodafone.com/business/global-enterprise/global-connectivity/vodafone-ip-vpn-cloud-connect)
 
-[bookmark](http://docs.asp.net/projects/api/en/latest/autoapi/Microsoft/AspNetCore/Http/IFormFile/index.html.md#Microsoft.AspNetCore.Http.IFormFile.md)
+[marketplace.visualstudio.com](https://marketplace.visualstudio.com/items?itemName=ms-azuredevtestlabs.tasks)
 
-[bookmark](https://www.github.com/omnisharp/generator-aspnet#sub-generators)
+[https://www.w3.org/TR/2006/REC-xml11-20060816/#dt-escape](https://www.w3.org/TR/2006/REC-xml11-20060816/#dt-escape)
 
-[bookmark](http://mvc.readthedocs.org/en/latest/views/tag-helpers/authoring.html#avoiding-tag-helper-conflicts)
+[www.windstreambusiness.com](http://www.windstreambusiness.com/solutions/cloud-services/cloud-and-managed-hosting-services)
 
 
 
