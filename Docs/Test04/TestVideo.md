@@ -1,6 +1,11 @@
 ## Verify video width is not greater than article body
+
 ### Test video
-[!VIDEO https://hubs-video.ssl.catalog.video.msn.com/embed/acea5c8e-8699-483b-87f0-f65f80065470/IA?csid=ux-en-us&MsnPlayerLeadsWith=html&PlaybackMode=Inline&MsnPlayerDisplayShareBar=false&MsnPlayerDisplayInfoButton=false&iframe=true&QualityOverride=HD]
+> [!VIDEO https://hubs-video.ssl.catalog.video.msn.com/embed/acea5c8e-8699-483b-87f0-f65f80065470/IA?csid=ux-en-us&MsnPlayerLeadsWith=html&PlaybackMode=Inline&MsnPlayerDisplayShareBar=false&MsnPlayerDisplayInfoButton=false&iframe=true&QualityOverride=HD]
+>
+>
+
+<iframe width="420" height="315" src="https://hubs-video.ssl.catalog.video.msn.com/embed/acea5c8e-8699-483b-87f0-f65f80065470/IA?csid=ux-en-us&MsnPlayerLeadsWith=html&PlaybackMode=Inline&MsnPlayerDisplayShareBar=false&MsnPlayerDisplayInfoButton=false&iframe=true&QualityOverride=HD" frameborder="0" allowfullscreen></iframe>
 
 ### Normal video 01
 <iframe width="420" height="315" src="https://www.youtube.com/embed/iyT1uILEI2U" frameborder="0" allowfullscreen></iframe>
