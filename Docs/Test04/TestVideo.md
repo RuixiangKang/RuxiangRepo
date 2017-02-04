@@ -7,6 +7,16 @@
 
 <iframe width="420" height="315" src="https://hubs-video.ssl.catalog.video.msn.com/embed/acea5c8e-8699-483b-87f0-f65f80065470/IA?csid=ux-en-us&MsnPlayerLeadsWith=html&PlaybackMode=Inline&MsnPlayerDisplayShareBar=false&MsnPlayerDisplayInfoButton=false&iframe=true&QualityOverride=HD" frameborder="0" allowfullscreen></iframe>
 
+### Invalid video source01,changeg the root path
+> [!VIDEO https://hubs-video.ssl.catalog.video.msn.com/embed/acea5c8e-8699-483b-87f0-f65f80065470/IA?csid=ux-en-us&MsnPlayerLeadsWith=html&PlaybackMode=Inline&MsnPlayerDisplayShareBar=false&MsnPlayerDisplayInfoButton=false&iframe=true]
+>
+>
+
+### Invalid video source02
+> [!VIDEO https://hubs-video.ssl.catalog.video.msn/embed/acea5c8e-8699-483b-87f0-f65f80065470/IA?csid=ux-en-us&MsnPlayerLeadsWith=html&PlaybackMode=Inline&MsnPlayerDisplayShareBar=false&MsnPlayerDisplayInfoButton=false&iframe=true&QualityOverride=HD]
+>
+>
+
 ### Normal video 01
 <iframe width="420" height="315" src="https://www.youtube.com/embed/iyT1uILEI2U" frameborder="0" allowfullscreen></iframe>
 
