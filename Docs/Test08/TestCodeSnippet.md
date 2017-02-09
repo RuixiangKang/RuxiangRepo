@@ -2,9 +2,11 @@
  
  ### Normal code snippet
   ```
+  ABCDEFG
   On July 2, an alien ship entered Earth's orbit and deployed several dozen saucer-shaped "destroyer" spacecraft, each 15 miles (24 km) wide.
   
   On July 3, the Black Knights, a squadron of Marine Corps F/A-18 Hornets, participated 
+ 
   ```
   
  ### Verify codesnippet width is not wider than article body(pending)
