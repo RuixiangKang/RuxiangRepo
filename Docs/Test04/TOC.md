@@ -4,7 +4,7 @@
 ####[TestAlert](TestAlert.md)
 ###[TestCodeSnippet](TestCodeSnippet.md)
 ###[TestImage](TestImage.md)
-###[TestTable0](TestTable1.md)
+###[TestTable](TestTable.md)
 ###[TestTable2](TestTable4.md)
 ###[TestTable3](TestTable3.md)
 ###[TestVideo](TestVideo.md)
