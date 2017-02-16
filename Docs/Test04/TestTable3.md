@@ -1,3 +1,10 @@
+---
+# required metadata
+
+ms.prod: .net
+ms.technology: test
+
+---
 
 ## false positive link test
 
