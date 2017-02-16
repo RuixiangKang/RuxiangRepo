@@ -1,6 +1,8 @@
 ---
 # required metadata
 title: You can create tables by a list | Microsoft Docs
+ms.prod: .net
+ms.technology: devlang-fsharp
 ---
 
 Using tables in your content
