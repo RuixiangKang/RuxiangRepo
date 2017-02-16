@@ -86,6 +86,11 @@
 1. ![Flower](/Images/flower.jpg)
 2. bbb
 
+## External image wider than main content 
+> [!IMPORTANT] 
+> External image
+> <img src="http://pic33.nipic.com/20130916/3420027_192919547000_2.jpg" width = "1860" height ="1245"/>
+
 
 [comment]: <> (![INT access rules (inbound)](./Images/flower.png))
 [comment]: <> (![INT access rules (outbound)](./Images/flowerssss.png))
