@@ -1,4 +1,10 @@
+---
+# required metadata
 
+ms.prod: prodtectest
+ms.technology: 
+
+---
 
 ## Video test
 ### MD mp4 video </br>
