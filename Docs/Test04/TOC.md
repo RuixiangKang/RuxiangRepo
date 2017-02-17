@@ -9,6 +9,10 @@
 ###[TestTable3](TestTable3.md)
 ###[TestVideo](TestVideo.md)
 ###[TestTable](TestTable.md)
+###[TestExampleLink](Test_ExampleLink.md)
+###[TestExternalLink](Test_ExternalLink.md)
+
+
 ####[TestTableNestOtherElements](TestTableNestOtherElements.md)
 ####[TOC_Block_Test](InvalidTOC.md)
 #####[TestTable1](TestTable1.md)
