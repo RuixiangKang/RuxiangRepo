@@ -64,9 +64,9 @@ ms.suite: ems
 	* ![I am flower](./Images/flower.jpg "This is A/t text")
 	* ![I am flower](./Images/flower.jpg "This is A/t text")
 	* 
-3. ccc
+3. 
 	7. hhh
-	9. kkk
+	9. 
 	
 	
 ### Verify Image list
@@ -79,6 +79,6 @@ ms.suite: ems
 ### Verify list nested alert
 1. aaa
 	3. > [!NOTE] Sample Notification Message
-	2. > [!WARNING] Sample Warning Message
+	2. 
 2. 
 2. bbb
