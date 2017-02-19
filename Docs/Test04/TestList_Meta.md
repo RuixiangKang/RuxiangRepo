@@ -60,14 +60,15 @@ ms.suite: ems
 
 
 ### Verify nested list
-1. aaa
+1. aaa1
 	* ![I am flower](./Images/flower.jpg "This is A/t text")
 	* ![I am flower](./Images/flower.jpg "This is A/t text")
 	* 
-3. 
+3. test
 	7. hhh
 	9. 
-	
+4. test
+5. 
 	
 ### Verify Image list
 1. ![I am flower](./Images/flower.jpg "This is A/t text")
