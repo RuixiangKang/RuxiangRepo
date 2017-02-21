@@ -33,30 +33,23 @@
  
  
 ### Task 925919: [Windows] live content validation 
-  Example Link: 
-  [Auto-suggest accessibility](http://windowsstyleguide/accessibility/accessible-text-requirements/#auto-suggest_accessibility)
- 
-  Example Link: 
-  [Microsoft Store Services SDK](http://aka.ms/store-em-sdk)
- 
-  Example Link:
-  [Microsoft Advertising SDK for Windows and Windows Phone 8.x](http://aka.ms/store-8-sdk)
- 
-  Example Link:
-  [Pen and stylus interactions in UWP apps](http://windowsstyleguide/input-and-devices/pen-and-stylus-interactions/)
+  Example URL: 
+  [http://contoso.com/sometype](http://contoso.com/sometype)
+  
+  Example URL: 
+  [http://example.com/myfile.wmv](http://example.com/myfile.wmv)
+  
+  Example URL: 
+  [http://schemas.microsoft.com/winfx/2006/xaml/presentation](http://schemas.microsoft.com/winfx/2006/xaml/presentation) 
+  
+  Example URL: 
+  [https://www.microsoft.com/store/apps/](https://www.microsoft.com/store/apps/%3CStore)
+  
+  Example URL: 
+  [http://Phone360](http://phone360/)"
+  
+  Example URL: 
+  [http://127.0.0.1:10080](http://127.0.0.1:10080/) 
 
-  Example Link:
-  [Recognize ink strokes](http://windowsstyleguide/input-and-devices/convert-ink-to-text/)
- 
-  Example Link: 
-  [Store and retrieve ink strokes](http://windowsstyleguide/input-and-devices/save-and-load-ink/)
- 
-  Example Link: 
-  [here](http://aka.ms/store-services-sdk)
 
-  Example Link: 
-  [documentation](https://wiki.smaato.com/display/SPX/Windows+Phone)
- 
-  Example Link:  
-  [OriginalKey](https://msdn.microsoft.com/library/windows/apps/windows.ui.xaml.input.keyroutedeventargs.originalkey.aspx)
 
