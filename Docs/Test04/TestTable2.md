@@ -8,7 +8,7 @@ ms.technology:
 
 ## Video test
 ### MD mp4 video </br>
-[![Video test](Images\flower.mp4)](http://www.runoob.com/try/demo_source/movie.mp4)
+[!Video test](./Images/flower.mp4)](https://www.youtube.com/embed/iyT1uILEI2U)
 ### html mp4 video </br>
 <iframe width="420" height="315" src="http://www.runoob.com/try/demo_source/movie.mp4" frameborder="0" allowfullscreen></iframe>
 ### test MP4 video url </br>
