@@ -26,7 +26,7 @@
 
 
 ### The normal image with nornal width (External image)
-<img src="http://pic33.nipic.com/20130916/3420027_192919547000_2.jpg" width = "200" height ="100"/>
+<img src="http://pic33.nipic.com/20130916/3420027_192919547000_2.jpg" width = "200" height ="100" alt/>
 
 
 ## Image in table
