@@ -51,5 +51,42 @@
   Example URL: 
   [http://127.0.0.1:10080](http://127.0.0.1:10080/) 
 
+### Task 935422: [VS] OfficeDev content validation
+ExampleLink:
+[http://myserver/_vti_bin/ListData.svc](http://myserver/_vti_bin/ListData.svc)
 
+ExampleLink:
+[http://myserver](http://myserver/)
 
+ExampleLink:
+[http://MySPSite](http://myspsite/)
+
+ExampleLink:
+[http://testserver/sites/unittests](http://testserver/sites/unittests)
+
+ExampleLink:
+[http://www.microsoft.com/MyApplication](http://www.microsoft.com/MyApplication)
+
+ExampleLink:
+[https://mytestsite.sharepoint.microsoftonline.com](https://mytestsite.sharepoint.microsoftonline.com/)
+
+ExampleLink:
+[https://someremoteserver.sharepoint.microsoftonline.com](https://someremoteserver.sharepoint.microsoftonline.com/)
+
+ExampleLink:
+[http://fabrikam.com/excelsolution.vsto](http://fabrikam.com/excelsolution.vsto)
+
+ExampleLink:
+[http://go.microsoft.com/fwlink/?LinkId=191369](http://go.microsoft.com/fwlink/?LinkId=191369)
+
+ExampleLink:
+[http://schemas.microsoft.com/developer/msbuild/2003”](http://schemas.microsoft.com/developer/msbuild/2003”)
+
+ExampleLink:
+[http://schemas.microsoft.com/developer/vstemplate/2005”](http://schemas.microsoft.com/developer/vstemplate/2005”)
+
+ExampleLink:
+[http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel](http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel)
+
+ExampleLink:
+[http://SharePointServerName/TeamName/ProjectName/DocumentLibraryName](http://sharepointservername/TeamName/ProjectName/DocumentLibraryName)
