@@ -417,4 +417,56 @@ Link: [Brush](http://msdn.microsoft.com/library/windows/apps/xaml/windows.ui.xam
 [3](http://winmtr.net/)
 
 
+### Azure & SQL
+
+[http://go.microsoft.com/fwlink/p/?linkid=320376 ](http://go.microsoft.com/fwlink/p/?linkid=320376)
+
+[http://livefyre.com/ ](http://livefyre.com/)
+
+[http://go.microsoft.com/fwlink/?LinkId=746944 ](http://go.microsoft.com/fwlink/?LinkId=746944)
+
+[http://go.microsoft.com/fwlink/?LinkId=746882 ](http://go.microsoft.com/fwlink/?LinkId=746882)
+
+[https://packages.microsoft.com/rhel/7/mssql-server/mssql-server-fts-14.0.304.138-1.x86_64.rpm ](https://packages.microsoft.com/rhel/7/mssql-server/mssql-server-fts-14.0.304.138-1.x86_64.rpm)
+
+[https://go.microsoft.com/fwlink/?linkid=840957 ](https://go.microsoft.com/fwlink/?linkid=840957)
+
+[https://go.microsoft.com/fwlink/?LinkID=840946 ](https://go.microsoft.com/fwlink/?LinkID=840946)
+
+[http://go.microsoft.com/fwlink/?linkid=840946&amp;clcid=0x40c ](http://go.microsoft.com/fwlink/?linkid=840946&amp;clcid=0x40c)
+
+[http://go.microsoft.com/fwlink/?linkid=840946&amp;clcid=0x407 ](http://go.microsoft.com/fwlink/?linkid=840946&amp;clcid=0x407)
+
+[http://go.microsoft.com/fwlink/?linkid=840946&amp;clcid=0x410 ](http://go.microsoft.com/fwlink/?linkid=840946&amp;clcid=0x410)
+
+[http://go.microsoft.com/fwlink/?linkid=840946&amp;clcid=0x411 ](http://go.microsoft.com/fwlink/?linkid=840946&amp;clcid=0x411)
+
+[http://go.microsoft.com/fwlink/?linkid=840946&amp;clcid=0x412 ](http://go.microsoft.com/fwlink/?linkid=840946&amp;clcid=0x412)
+
+[http://go.microsoft.com/fwlink/?linkid=840946&amp;clcid=0x416 ](http://go.microsoft.com/fwlink/?linkid=840946&amp;clcid=0x416)
+
+[http://go.microsoft.com/fwlink/?linkid=840946&amp;clcid=0x419 ](http://go.microsoft.com/fwlink/?linkid=840946&amp;clcid=0x419)
+
+[http://go.microsoft.com/fwlink/?linkid=840946&amp;clcid=0x40a ](http://go.microsoft.com/fwlink/?linkid=840946&amp;clcid=0x40a)
+
+[http://go.microsoft.com/fwlink/?LinkID=822301 ](http://go.microsoft.com/fwlink/?LinkID=822301)
+
+[http://download.microsoft.com/download/F/6/7/F673709C-D371-4A64-8BF9-C1DD73F60990/ENU/x86/SQLManagementStudio_x86_ENU.exe ](http://download.microsoft.com/download/F/6/7/F673709C-D371-4A64-8BF9-C1DD73F60990/ENU/x86/SQLManagementStudio_x86_ENU.exe)
+
+[http://support.livefyre.com/ ](http://support.livefyre.com/)
+
+[https://resources.azure.com/ ](https://resources.azure.com/)
+
+[http://xrdp.org/ ](http://xrdp.org/)
+
+[https://build.opensuse.org/project/show/Cloud:Tools ](https://build.opensuse.org/project/show/Cloud:Tools)
+
+[https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/MAINTAINERS ](https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/MAINTAINERS)
+
+[https://support.sap.com/pam ](https://support.sap.com/pam)
+
+[https://www.microsoft.com/en-us/download/details.aspx?id=27416](https://www.microsoft.com/en-us/download/details.aspx?id=27416)
+
+
+
 
