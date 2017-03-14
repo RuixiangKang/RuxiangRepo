@@ -1,5 +1,7 @@
 ## Example Link
 
+### There are 158 example links
+
 [http://www.adventure-works.com/api/orders/](http://www.adventure-works.com/api/orders/)
 
 [http://www.adventure-works.com/api/orders/101](http://www.adventure-works.com/api/orders/101)
