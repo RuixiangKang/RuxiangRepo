@@ -1,5 +1,62 @@
 ## Here is the all false positive external Link list in DOCS live site.
-### There are 174 links after removing duplicate in this list
+### There are 208 links after removing duplicate in this list
+
+
+[https://sendgrid.com/partners/azure/](https://sendgrid.com/partners/azure/)
+
+[http://blogs.msdn.com/b/adonet/archive/2011/11/05/minimizing-connection-pool-errors-in-sql-azure.aspx](http://blogs.msdn.com/b/adonet/archive/2011/11/05/minimizing-connection-pool-errors-in-sql-azure.aspx)
+
+[http://windowsstyleguide/accessibility/accessible-text-requirements/#auto-suggest_accessibility](http://windowsstyleguide/accessibility/accessible-text-requirements/#auto-suggest_accessibility)
+
+[http://aka.ms/store-em-sdk](http://aka.ms/store-em-sdk)
+
+[http://aka.ms/store-8-sdk](http://aka.ms/store-8-sdk)
+
+[http://windowsstyleguide/input-and-devices/pen-and-stylus-interactions/](http://windowsstyleguide/input-and-devices/pen-and-stylus-interactions/)
+
+[http://windowsstyleguide/input-and-devices/convert-ink-to-text/](http://windowsstyleguide/input-and-devices/convert-ink-to-text/)
+
+[http://windowsstyleguide/input-and-devices/save-and-load-ink/](http://windowsstyleguide/input-and-devices/save-and-load-ink/)
+
+[http://aka.ms/store-services-sdk](http://aka.ms/store-services-sdk)
+
+[https://wiki.smaato.com/display/SPX/Windows+Phone](https://wiki.smaato.com/display/SPX/Windows+Phone)
+
+[https://msdn.microsoft.com/library/windows/apps/windows.ui.xaml.input.keyroutedeventargs.originalkey.aspx](https://msdn.microsoft.com/library/windows/apps/windows.ui.xaml.input.keyroutedeventargs.originalkey.aspx)
+
+[http://msdn.microsoft.com/en-us/b0b1af2c-e2a8-4876-99dc-7351bfc46ce4](http://msdn.microsoft.com/en-us/b0b1af2c-e2a8-4876-99dc-7351bfc46ce4)
+
+[http://msdn.microsoft.com/en-us/f3ce3eab-028c-4204-ba9f-9ab8af17c8c4](http://msdn.microsoft.com/en-us/f3ce3eab-028c-4204-ba9f-9ab8af17c8c4)
+
+[http://msdn.microsoft.com/en-us/79697692-ae58-40e0-958f-cf1be6347994](http://msdn.microsoft.com/en-us/79697692-ae58-40e0-958f-cf1be6347994)
+
+[http://msdn.microsoft.com/en-us/1ccff0cf-a6cc-47ef-a05f-eba6307b3ced](http://msdn.microsoft.com/en-us/1ccff0cf-a6cc-47ef-a05f-eba6307b3ced)
+
+[http://social.msdn.microsoft.com/Forums/winappswithnativecode/thread/211ef583-db11-4e55-926b-6d9ab53dbdb4](http://social.msdn.microsoft.com/Forums/winappswithnativecode/thread/211ef583-db11-4e55-926b-6d9ab53dbdb4)
+
+[http://msdn.microsoft.com/en-us/8b02ad36-3b5f-4361-888b-e6a99040e57c](http://msdn.microsoft.com/en-us/8b02ad36-3b5f-4361-888b-e6a99040e57c)
+
+[http://msdn.microsoft.com/en-us/ee01e63d-37d0-4273-accc-fca174f88bfa](http://msdn.microsoft.com/en-us/ee01e63d-37d0-4273-accc-fca174f88bfa)
+
+[http://msdn.microsoft.com/en-us/1eae292d-1ab7-4d97-a58c-b0beffd51ef5](http://msdn.microsoft.com/en-us/1eae292d-1ab7-4d97-a58c-b0beffd51ef5)
+
+[http://msdn.microsoft.com/en-us/47c348c0-77ab-a504-5097-bcd6a213921a](http://msdn.microsoft.com/en-us/47c348c0-77ab-a504-5097-bcd6a213921a)
+
+[http://msdn.microsoft.com/en-us/771707fb-5f34-473d-9fdf-09a6a7f55ece](http://msdn.microsoft.com/en-us/771707fb-5f34-473d-9fdf-09a6a7f55ece)
+
+[http://go.microsoft.com/fwlink/?LinkId=98310](http://go.microsoft.com/fwlink/?LinkId=98310)
+
+[http://go.microsoft.com/fwlink/?LinkID=79938](http://go.microsoft.com/fwlink/?LinkID=79938)
+
+[http://msdn.microsoft.com/en-us/700a570a-e98e-4425-aadd-34c014868d43](http://msdn.microsoft.com/en-us/700a570a-e98e-4425-aadd-34c014868d43)
+
+[http://msdn.microsoft.com/en-us/372089ce-cda9-4c21-beb2-f964990b96ee](http://msdn.microsoft.com/en-us/372089ce-cda9-4c21-beb2-f964990b96ee)
+
+[http://go.microsoft.com/fwlink/?LinkId=191369](http://go.microsoft.com/fwlink/?LinkId=191369)
+
+[http://go.microsoft.com/fwlink/?LinkId=79757](http://go.microsoft.com/fwlink/?LinkId=79757)
+
+[http://msdn.microsoft.com/en-us/d011e6f4-77dd-d02d-66ef-dc4a9e7b26f2](http://msdn.microsoft.com/en-us/d011e6f4-77dd-d02d-66ef-dc4a9e7b26f2)
 
 [https://msdn.microsoft.com/library/618ayhy6(VS.110).aspx](https://msdn.microsoft.com/library/618ayhy6(VS.110).aspx)
 
@@ -348,6 +405,18 @@
 [https://support.sap.com/pam ](https://support.sap.com/pam)
 
 [https://www.microsoft.com/en-us/download/details.aspx?id=27416](https://www.microsoft.com/en-us/download/details.aspx?id=27416)
+
+[http://aka.ms/OfficeDevToolsForVS2012](http://aka.ms/OfficeDevToolsForVS2012)
+
+[http://www.windowsazure.com/](http://www.windowsazure.com/)
+
+[http://msdn.microsoft.com/en-us/library/windowsazure/hh690928.aspx](http://msdn.microsoft.com/en-us/library/windowsazure/hh690928.aspx)
+
+[http://msdn.microsoft.com/library/hh667438.aspx](http://msdn.microsoft.com/library/hh667438.aspx)
+
+[http://www.windowsazure.com/en-us/pricing/member-offers/msdn-benefits/](http://www.windowsazure.com/en-us/pricing/member-offers/msdn-benefits/)
+ 
+[http://assets.andrewconnell.com/media/Default/Downloads/SP2013Wf-CustomTasks.zip](http://assets.andrewconnell.com/media/Default/Downloads/SP2013Wf-CustomTasks.zip)
 
 
 

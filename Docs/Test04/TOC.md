@@ -20,6 +20,6 @@
 ###[TestLink](TestLink.md)
 ###[TestLink_AlertNested](TestLink_AlertNested.md)
 ###[TestLink_ListNested](TestLink_ListNested.md)
-##[TestExternalLink](Test_ExternalLink.md)
+##[Test_ExternalLink_All](Test_ExternalLink_All.md)
 ##[Test_ExampleLink_All](Test_ExampleLink_All.md)
 
