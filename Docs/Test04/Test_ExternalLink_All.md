@@ -1,10 +1,8 @@
 ## Here is the all false positive external Link list in DOCS live site.
-### There are 208 links after removing duplicate in this list
+### There are 168 links after removing duplicate in this list
 
 
 [https://sendgrid.com/partners/azure/](https://sendgrid.com/partners/azure/)
-
-[http://blogs.msdn.com/b/adonet/archive/2011/11/05/minimizing-connection-pool-errors-in-sql-azure.aspx](http://blogs.msdn.com/b/adonet/archive/2011/11/05/minimizing-connection-pool-errors-in-sql-azure.aspx)
 
 [http://windowsstyleguide/accessibility/accessible-text-requirements/#auto-suggest_accessibility](http://windowsstyleguide/accessibility/accessible-text-requirements/#auto-suggest_accessibility)
 
@@ -24,40 +22,6 @@
 
 [https://msdn.microsoft.com/library/windows/apps/windows.ui.xaml.input.keyroutedeventargs.originalkey.aspx](https://msdn.microsoft.com/library/windows/apps/windows.ui.xaml.input.keyroutedeventargs.originalkey.aspx)
 
-[http://msdn.microsoft.com/en-us/b0b1af2c-e2a8-4876-99dc-7351bfc46ce4](http://msdn.microsoft.com/en-us/b0b1af2c-e2a8-4876-99dc-7351bfc46ce4)
-
-[http://msdn.microsoft.com/en-us/f3ce3eab-028c-4204-ba9f-9ab8af17c8c4](http://msdn.microsoft.com/en-us/f3ce3eab-028c-4204-ba9f-9ab8af17c8c4)
-
-[http://msdn.microsoft.com/en-us/79697692-ae58-40e0-958f-cf1be6347994](http://msdn.microsoft.com/en-us/79697692-ae58-40e0-958f-cf1be6347994)
-
-[http://msdn.microsoft.com/en-us/1ccff0cf-a6cc-47ef-a05f-eba6307b3ced](http://msdn.microsoft.com/en-us/1ccff0cf-a6cc-47ef-a05f-eba6307b3ced)
-
-[http://social.msdn.microsoft.com/Forums/winappswithnativecode/thread/211ef583-db11-4e55-926b-6d9ab53dbdb4](http://social.msdn.microsoft.com/Forums/winappswithnativecode/thread/211ef583-db11-4e55-926b-6d9ab53dbdb4)
-
-[http://msdn.microsoft.com/en-us/8b02ad36-3b5f-4361-888b-e6a99040e57c](http://msdn.microsoft.com/en-us/8b02ad36-3b5f-4361-888b-e6a99040e57c)
-
-[http://msdn.microsoft.com/en-us/ee01e63d-37d0-4273-accc-fca174f88bfa](http://msdn.microsoft.com/en-us/ee01e63d-37d0-4273-accc-fca174f88bfa)
-
-[http://msdn.microsoft.com/en-us/1eae292d-1ab7-4d97-a58c-b0beffd51ef5](http://msdn.microsoft.com/en-us/1eae292d-1ab7-4d97-a58c-b0beffd51ef5)
-
-[http://msdn.microsoft.com/en-us/47c348c0-77ab-a504-5097-bcd6a213921a](http://msdn.microsoft.com/en-us/47c348c0-77ab-a504-5097-bcd6a213921a)
-
-[http://msdn.microsoft.com/en-us/771707fb-5f34-473d-9fdf-09a6a7f55ece](http://msdn.microsoft.com/en-us/771707fb-5f34-473d-9fdf-09a6a7f55ece)
-
-[http://go.microsoft.com/fwlink/?LinkId=98310](http://go.microsoft.com/fwlink/?LinkId=98310)
-
-[http://go.microsoft.com/fwlink/?LinkID=79938](http://go.microsoft.com/fwlink/?LinkID=79938)
-
-[http://msdn.microsoft.com/en-us/700a570a-e98e-4425-aadd-34c014868d43](http://msdn.microsoft.com/en-us/700a570a-e98e-4425-aadd-34c014868d43)
-
-[http://msdn.microsoft.com/en-us/372089ce-cda9-4c21-beb2-f964990b96ee](http://msdn.microsoft.com/en-us/372089ce-cda9-4c21-beb2-f964990b96ee)
-
-[http://go.microsoft.com/fwlink/?LinkId=191369](http://go.microsoft.com/fwlink/?LinkId=191369)
-
-[http://go.microsoft.com/fwlink/?LinkId=79757](http://go.microsoft.com/fwlink/?LinkId=79757)
-
-[http://msdn.microsoft.com/en-us/d011e6f4-77dd-d02d-66ef-dc4a9e7b26f2](http://msdn.microsoft.com/en-us/d011e6f4-77dd-d02d-66ef-dc4a9e7b26f2)
-
 [https://msdn.microsoft.com/library/618ayhy6(VS.110).aspx](https://msdn.microsoft.com/library/618ayhy6(VS.110).aspx)
 
 [http://msdn.microsoft.com/library/windows/apps/xaml/windows.ui.xaml.media.brush.aspx](http://msdn.microsoft.com/library/windows/apps/xaml/windows.ui.xaml.media.brush.aspx)
@@ -66,13 +30,7 @@
 
 [https://azure.microsoft.com/pricing/member-offers/msdn-benefits-details/](https://azure.microsoft.com/pricing/member-offers/msdn-benefits-details/)
 
-[http://ardalis/](http://ardalis/)
-
-[http://blog.wekeroad.com/mvc-storefront/mvcstore-part-15/](http://blog.wekeroad.com/mvc-storefront/mvcstore-part-15/)
-
 [https://www.microsoft.com/web/gallery/install.aspx?appsxml=&amp;appid=VS2010SP1Pack](https://www.microsoft.com/web/gallery/install.aspx?appsxml=&amp;appid=VS2010SP1Pack)
-
-[http://www.aspnetresources.com/blog/sql_cache_depedency_overview.aspx](http://www.aspnetresources.com/blog/sql_cache_depedency_overview.aspx)
 
 [https://go.microsoft.com/fwlink/?LinkId=282650](https://go.microsoft.com/fwlink/?LinkId=282650)
 
@@ -102,12 +60,6 @@
 
 [http://www.electricplum.com/](http://www.electricplum.com/)
 
-[http://www.aspnetresources.com/articles/dark_side_of_file_uploads.aspx](http://www.aspnetresources.com/articles/dark_side_of_file_uploads.aspx)
-
-[https://www.microsoft.com/protect/fraud/phishing/symptoms.aspx](https://www.microsoft.com/protect/fraud/phishing/symptoms.aspx)
-
-[https://www.microsoft.com/web/hosting](https://www.microsoft.com/web/hosting)
-
 [https://go.microsoft.com/fwlink/?linkid=324322&amp;clcid=0x409](https://go.microsoft.com/fwlink/?linkid=324322&amp;clcid=0x409)
 
 [http://download.microsoft.com/download/4/a/7/4a7a3b18-d80e-4014-8e53-a6a2427f0d93/ASPNET_Data_Tutorial_52_VB.exe](http://download.microsoft.com/download/4/a/7/4a7a3b18-d80e-4014-8e53-a6a2427f0d93/ASPNET_Data_Tutorial_52_VB.exe)
@@ -125,8 +77,6 @@
 [https://www.microsoft.com/web/webmatrix/features/](https://www.microsoft.com/web/webmatrix/features/)
 
 [https://www.iis.net/learn/develop/troubleshooting-webmatrix/microsoft-webmatrix-certificateerrors-during-publishing](https://www.iis.net/learn/develop/troubleshooting-webmatrix/microsoft-webmatrix-certificateerrors-during-publishing)
-
-[https://go.microsoft.com/?linkid=9810169](https://go.microsoft.com/?linkid=9810169)
 
 [https://www.microsoft.com/web/gallery/install.aspx?appsxml=&amp;appid=IIS7;ASPNET;NETFramework4;WDeploy](https://www.microsoft.com/web/gallery/install.aspx?appsxml=&amp;appid=IIS7;ASPNET;NETFramework4;WDeploy)
 
@@ -158,15 +108,9 @@
 
 [https://go.microsoft.com/fwlink/?linkid=254364&amp;clcid=0x409](https://go.microsoft.com/fwlink/?linkid=254364&amp;clcid=0x409)
 
-[http://download.microsoft.com/download/9/c/1/9c1d03ee-29ba-4d58-aa1af201dcc822ea/ASPNET_Data_Tutorial_20_CS.exe](http://download.microsoft.com/download/9/c/1/9c1d03ee-29ba-4d58-aa1af201dcc822ea/ASPNET_Data_Tutorial_20_CS.exe)
-
-[http://download.microsoft.com/download/2/d/c/2dc10e34-6983-41d4-9c08f78f5387d32b/numericupdown1VB.pdf](http://download.microsoft.com/download/2/d/c/2dc10e34-6983-41d4-9c08f78f5387d32b/numericupdown1VB.pdf)
-
 [https://www.microsoft.com/web/handlers/webpi.ashx?command=getinstallerredirect&amp;appid=MVC3](https://www.microsoft.com/web/handlers/webpi.ashx?command=getinstallerredirect&amp;appid=MVC3)
 
 [http://download.microsoft.com/download/b/6/a/b6ae89ee-df69-4c87-9bfb-ad1eb2b23373/modalpopup4VB.pdf](http://download.microsoft.com/download/b/6/a/b6ae89ee-df69-4c87-9bfb-ad1eb2b23373/modalpopup4VB.pdf)
-
-[http://download.microsoft.com/download/9/c/1/9c1d03ee-29ba-4d58-aa1af201dcc822ea/ASPNET_Data_Tutorial_40_VB.exe](http://download.microsoft.com/download/9/c/1/9c1d03ee-29ba-4d58-aa1af201dcc822ea/ASPNET_Data_Tutorial_40_VB.exe)
 
 [http://download.microsoft.com/download/b/6/a/b6ae89ee-df69-4c87-9bfb-ad1eb2b23373/nobot0CS.pdf](http://download.microsoft.com/download/b/6/a/b6ae89ee-df69-4c87-9bfb-ad1eb2b23373/nobot0CS.pdf)
 
@@ -214,21 +158,11 @@
 
 [https://go.microsoft.com/fwlink/p/?linkid=323511](https://go.microsoft.com/fwlink/p/?linkid=323511)
 
-[http://download.microsoft.com/download/4/c/2/4c2def7a-0d23-4055-91f9-1f18504167d7/FilteredTextBox0.cs.zip](http://download.microsoft.com/download/4/c/2/4c2def7a-0d23-4055-91f9-1f18504167d7/FilteredTextBox0.cs.zip)
-
-[https://download.microsoft.com/download/7/1/A/71A105A9-89D6-4201-9CC5AD6A3B7E2F22/ASP_NET_4_and_Visual_Studio_2010_Web_Development_Overview.pdf](https://download.microsoft.com/download/7/1/A/71A105A9-89D6-4201-9CC5AD6A3B7E2F22/ASP_NET_4_and_Visual_Studio_2010_Web_Development_Overview.pdf)
-
-[http://www.iis.net/extensions/applicationwarmup on the IIS.net](http://www.iis.net/extensions/applicationwarmup on the IIS.net)
-
 [https://blogs.msdn.com/b/ieinternals/archive/2010/05/13/xdomainrequest-restrictions-limitations-and-workarounds.aspx](https://blogs.msdn.com/b/ieinternals/archive/2010/05/13/xdomainrequest-restrictions-limitations-and-workarounds.aspx)
 
 [http://download.microsoft.com/download/4/a/7/4a7a3b18-d80e-4014-8e53-a6a2427f0d93/ASPNET_Data_Tutorial_53_CS.exe](http://download.microsoft.com/download/4/a/7/4a7a3b18-d80e-4014-8e53-a6a2427f0d93/ASPNET_Data_Tutorial_53_CS.exe)
 
-[http://download.microsoft.com/download/9/c/1/9c1d03ee-29ba-4d58-aa1a f201dcc822ea/ASPNET_Data_Tutorial_19_VB.exe](http://download.microsoft.com/download/9/c/1/9c1d03ee-29ba-4d58-aa1a f201dcc822ea/ASPNET_Data_Tutorial_19_VB.exe)
-
 [https://www.microsoft.com/en-us/cloud-platform/cloud-app-security](https://www.microsoft.com/en-us/cloud-platform/cloud-app-security)
-
-[https://technet.microsoft.com/library/hh831734.aspx](https://technet.microsoft.com/library/hh831734.aspx)
 
 [http://www.xrml.org/](http://www.xrml.org/)
 
@@ -247,8 +181,6 @@
 [http://yourapp/](http://yourapp/)
 
 [http://dl.google.com:443/](http://dl.google.com:443/)
-
-[http://go.microsoft.com/fwlink/?LinkId=55529](http://go.microsoft.com/fwlink/?LinkId=55529)
 
 [https://sec.ch9.ms/sessions/69613110-c334-4f25-bb36-08e5a93456b5/170ValidateArchitectureDependenciesWithVisualStudio.mp4](https://sec.ch9.ms/sessions/69613110-c334-4f25-bb36-08e5a93456b5/170ValidateArchitectureDependenciesWithVisualStudio.mp4)
 
@@ -272,8 +204,6 @@
 
 [http://dotnetslackers.com/articles/aspnet/ConfiguringAndCustomizingTheHealthMonitoringSystemOfASPNET.aspx](http://dotnetslackers.com/articles/aspnet/ConfiguringAndCustomizingTheHealthMonitoringSystemOfASPNET.aspx)
 
-[https://www.asp.net/cssadapters/  >CSS](https://www.asp.net/cssadapters/  >CSS)
-
 [https://www.microsoft.com/visualstudio/11/en-us/downloads#express-web](https://www.microsoft.com/visualstudio/11/en-us/downloads#express-web)
 
 [https://deploy.azure.com/?WT.mc_id=deploy_azure_aspnet&amp;repository=https://github.com/tfitzmac/WebAPI-ProductsApp#/form/setup](https://deploy.azure.com/?WT.mc_id=deploy_azure_aspnet&amp;repository=https://github.com/tfitzmac/WebAPI-ProductsApp#/form/setup)
@@ -287,10 +217,6 @@
 [http://media.ch9.ms/ch9/11d8/604b8163-fad3-4f12-9607-b404201211d8/KatanaProject.mp3](http://media.ch9.ms/ch9/11d8/604b8163-fad3-4f12-9607-b404201211d8/KatanaProject.mp3)
 
 [https://www.microsoft.com/web/handlers/webpi.ashx/getinstaller/WebNode11Pack.appids](https://www.microsoft.com/web/handlers/webpi.ashx/getinstaller/WebNode11Pack.appids)
-
-[http://mysharepoint/sites/mygallery/forms/AllItems.aspx](http://mysharepoint/sites/mygallery/forms/AllItems.aspx)
-
-[http://go.microsoft.com/fwlink/?LinkID=232448](http://go.microsoft.com/fwlink/?LinkID=232448)
 
 [https://iis.net/](https://iis.net/)
 
@@ -307,8 +233,6 @@
 [https://www.iis.net/learn/develop/troubleshooting-webmatrix/microsoft-webmatrix-publish-compatibility](https://www.iis.net/learn/develop/troubleshooting-webmatrix/microsoft-webmatrix-publish-compatibility)
 
 [https://www.iis.net/learn/develop/troubleshooting-webmatrix/microsoft-webmatrix-certificate-errors-during-publishing](https://www.iis.net/learn/develop/troubleshooting-webmatrix/microsoft-webmatrix-certificate-errors-during-publishing)
-
-[https://technet.microsoft.com/en-us/library/hh967619.aspx](https://technet.microsoft.com/en-us/library/hh967619.aspx)
 
 [https://www.microsoft.com/web/gallery/install.aspx?appid=SQLLocalDBOnly_11_0](https://www.microsoft.com/web/gallery/install.aspx?appid=SQLLocalDBOnly_11_0)
 
@@ -350,11 +274,7 @@
 
 [http://c2.com/cgi/wiki?PascalCase](http://c2.com/cgi/wiki?PascalCase)
 
-[http://docs.cryengine.com/display/CEPROG/CE%23+Programming](http://docs.cryengine.com/display/CEPROG/CE%23+Programming)
-
-[https://github.com/NuGet/NuGet.Client/compare/release-3.5.0-beta...release-3.5.0-beta2](https://github.com/NuGet/NuGet.Client/compare/release-3.5.0-beta...release-3.5.0-beta2)
-
-[http://hotnuget.com/](http://hotnuget.com/)
+[http://docs.cryengine.com/display/CEPROG/CE%23+Programming](http://docs.cryengine.com/display/CEPROG/CE%23+Programming)\
 
 [http://winmtr.net/](http://winmtr.net/)
 
