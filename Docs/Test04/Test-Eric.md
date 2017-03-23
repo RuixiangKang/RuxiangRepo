@@ -1,3 +1,9 @@
+> [!div class="op_single_selector"]
+> [ATA Deployment Guide](./small.md)
+> [Install ATA](./large.md)
+
+
+
 # 1.Normal table
 |Normal table|Description
 |-------|------------------------|
