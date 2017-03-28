@@ -1,6 +1,6 @@
 
 <select>
 <option value="">-- Select Value --</option>
-<option value=""><a href="https://ppe.docs.microsoft.com/en-us/openpublishing/test/conceptual/small">ATA Deployment Guide </a></option>
+<option value=""><a href="./small.md">ATA Deployment Guide </a></option>
 </select>
 
