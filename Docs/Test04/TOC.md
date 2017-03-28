@@ -8,6 +8,7 @@
 ###[TestTable2](TestTable4.md)
 ###[TestTable3](TestTable3.md)
 ###[TestVideo](TestVideo.md)
+####[TestMissingVideo](TestMissingVideo.md)
 ###[TestTable](TestTable.md)
 ####[TestTableNestOtherElements](TestTableNestOtherElements.md)
 ####[TOC_Block_Test](InvalidTOC.md)
