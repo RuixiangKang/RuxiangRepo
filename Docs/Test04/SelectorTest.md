@@ -1,4 +1,15 @@
 
+<head>
+<script type="text/javascript">
+
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+</script>
+</head>
+
+<body>
 <select>
 <option value="">-- Select Value --</option>
 <option value="http://www.w3school.com.cn/tags/tag_option.asp">ATA Deployment Guide </option>
@@ -32,3 +43,4 @@
         <option value="http://www.divcss5.com/">divcss5</option>
         <option value="http://www.divcss5.com/">DIVCSS5</option>
     </select>
+    </body>
