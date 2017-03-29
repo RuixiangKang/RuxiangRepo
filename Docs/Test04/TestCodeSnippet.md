@@ -36,9 +36,9 @@
 
 
 >### Import internal code "code_test_f#" 
-| [!Code-fsharp[snippetGetActions_fsharp](.\CodeSnippets\code_test_fsharp.fs)]  | [!Code-fsharp[snippetGetActions_fsharp](.\CodeSnippets\code_test_fsharp.fs)]       |
+| [!Code-fsharp[snippetGetActions_fsharp](./CodeSnippets/code_test_fsharp.fs)]  | [!Code-fsharp[snippetGetActions_fsharp](./CodeSnippets/code_test_fsharp.fs)]       |
 | ------------- | ----------- |
-| [!Code-fsharp[snippetGetActions_fsharp](.\CodeSnippets\code_test_fsharp.fs)]    | [!Code-fsharp[snippetGetActions_fsharp](.\CodeSnippets\code_test_fsharp.fs)] |
+| [!Code-fsharp[snippetGetActions_fsharp](./CodeSnippets/code_test_fsharp.fs)]    | [!Code-fsharp[snippetGetActions_fsharp](./CodeSnippets/code_test_fsharp.fs)] |
 
 >### Import sample code "code_test_f#" 
 | [!Code-c[snippetGetActions_empty](.\CodeSnippets\emptycode)]  | [!Code-fsharp[snippetGetActions_fsharp](.\CodeSnippets\code_test_fsharp.fs)]       |
