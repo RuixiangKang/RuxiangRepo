@@ -22,7 +22,7 @@
 
 >### Import internal code "code_test_f#" 
 >[!NOTE]
->[!Codefsharp[snippetGetActions_fsharp](.\CodeSnippets\code_test_fsharp.fs)] 
+>[!Codefsharp[snippetGetActions_fsharp](./CodeSnippets/code_test_fsharp.fs)] 
  
 >### Import sample code 
 >[!NOTE]
