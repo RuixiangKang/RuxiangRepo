@@ -105,3 +105,35 @@ Content Cell  | Content Cell
 |---------------------|-------------|-----------|
 |8_ProjectDesignerpageqwqqqqqqqqqqqqqqqqqqqqqqqqqsdfssdsdffsdfqqqqqqqqqqqqqqqqqqqqqq|Related links|Description|
 
+## Html syntax table
+<table width='1880px'>
+<tr>
+ <th width='200'>
+ aa
+ </th>
+  <th width='880'>
+ aa
+ </th>
+  <th width='500'>
+ aa
+ </th>
+  <th width='500'>
+ aa
+ </th>
+</tr>
+<tr>
+ <td>
+ bb
+ </td>
+ <td>
+ bb
+ </td>
+ <td>
+ bb
+ </td>
+ <td>
+ bb
+ </td>
+</tr>
+</table>
+
