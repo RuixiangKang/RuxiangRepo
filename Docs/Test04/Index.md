@@ -1,9 +1,5 @@
-# Summary
-
-## Note
-
-1. **Common** page type include hub page,conceptual page,reference namespace page,reference class type page
-2. **Reference Common** page type include reference class page and refreence namespace page
+# Docs UI Template E2E
+This page is a summary that test cases list covered by docs UI template E2E.
 
 |Covered Page Type|Test Cases|
 |------------|----------|
@@ -13,3 +9,7 @@
 |[Reference Namespace](Reference_Namespace.md)|<ul><li>[Reference namespace page validation ](aa)</li></ul>|
 |[Reference Class](Reference_Class.md)|<ul><li>[Code syntax highlight validation on reference page](aa)</li><li>[Verify Member section and delegate](aa)</li><li>[Verify Type page except delegate](aa)</li><li>[View Code button should show up on adalErrorClass page and clicking it should jump to the correct source code site](aa)</li></ul>|
 |[Localization](Localization.md)|<ul><li>[Verify the comments, edit, share button](aa)</li><li>[Local Fallback: Verify the buttons of right hand side are localized](aa)</li><li>[Local Fallback: Verify the page show localized content with English token/art](aa)</li><li>[Verify anchor in the url [Disabled]](aa)</li><li>[Verify EU Banner](aa)</li><li>[Verify localized footer links ](aa)</li><li>[Verify toc and breadcrumb are localized](aa)</li></ul>|
+
+> [!NOTE]
+> 1. **Common** page type include hub page,conceptual page,reference namespace page,reference class type page
+> 2. **Reference Common** page type include reference class page and refreence namespace page

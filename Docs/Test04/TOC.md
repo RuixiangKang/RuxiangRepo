@@ -18,5 +18,5 @@
 ###[TestLink_AlertNested](TestLink_AlertNested.md)
 ###[TestLink_ListNested](TestLink_ListNested.md)
 
-#[Index](Index.md)
+#[Docs UI Template E2E](Index.md)
 ##[Common](Common.md)

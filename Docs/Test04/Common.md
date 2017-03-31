@@ -65,7 +65,7 @@ These test cases covered hub page,conceptual page,reference namespace page and r
 * The Sharing Facebook is presented
 * The links of Sharing Facebook is accurate
 
-## <a id='Breadcrumb_validation'><a>Breadcrumb validation
+## <a id='Breadcrumb_validation'></a>Breadcrumb validation
 ### Check point
 * Verify the Breadcrumb is presented on conceptual page
 
