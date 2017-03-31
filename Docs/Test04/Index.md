@@ -1,6 +1,15 @@
-#summary
+# Summary
 
-|Covered Page|Test Cases|comment|
+## Note
+
+1. **Common** page type include hub page,conceptual page,reference namespace page,reference class type page
+2. **Reference Common** page type include reference class page and refreence namespace page
+
+|Covered Page Type|Test Cases|
 |------------|----------|----------|
-|[Common](Common.md)|<ul><li>[Verify all links of Header and Footer](www.baidu.com)</li><li>[Verify all links of Header and Footer](www.baidu.com)</li><li>[Verify all links of Header and Footer](www.baidu.com)</li><li>[Verify all links of Header and Footer](www.baidu.com)</li></ul>|(hub page,conceptual page,reference namespace page,reference class type page)|
-|[Reference](Reference.md)|<ul><li>[Verify all links of Header and Footer](www.baidu.com)</li><li>[Verify all links of Header and Footer](www.baidu.com)</li><li>[Verify all links of Header and Footer](www.baidu.com)</li><li>[Verify all links of Header and Footer](www.baidu.com)</li></ul>|(hub page,conceptual page,reference namespace page,reference class type page)|
+|[Common](Common.md)|<ul><li>[Verify all links of Header and Footer](Common.md/#Verify all links of Header and Footer)</li><li>[Verify themeSelector](a)</li><li>[Verify  sharing button](Common.md/#Verify themeSelector)</li><li>[Breadcrumb validation](Common.md/#Breadcrumb validation)</li><li>[Verify Toc is presented and links are able to click](Common.md/#Verify Toc is presented and links are able to click)</li><li>[Verify RedirectUrl work well](Common.md/#Verify RedirectUrl work well)</li></ul>|
+|[Conceptual](Conceptual.md)|<ul><li>[Verify git contributor information](www.baidu.com)</li><li>[All contents on [ATA Deployment Guide] page is loaded completed ](www.baidu.com)</li><li>[All contents on [Install_ATA] page is loaded completed](www.baidu.com)</li><li>[Selector on [Conceptual UI Components] page could switch successful](www.baidu.com)</li><li>[Step by step on [Conceptual UI Components] page could navigate successful](www.baidu.com)</li><li>[Verify images validation](www.baidu.com)</li><li>[Verify the Alerts validation ](www.baidu.com)</li><li>[Verify the video validation](www.baidu.com)</li><li>[Edit button on Conceptual page should work well](www.baidu.com)</li><li>[Verify DOM metadata on Conceptual page ](www.baidu.com)</li></ul>|
+|[Reference Common](Reference_Common.md)|<ul><li>[Search reference function should work well](aa)</li><li>[Verify language selector](a)</li><li>[Verify platform selector](a)</li></ul>|
+|[Reference Namespace](Reference_Namespace.md)|<ul><li>[Reference namespace page validation ](aa)</li></ul>|
+|[Reference Class](Reference_Class.md)|<ul><li>[Code syntax highlight validation on reference page](aa)</li><li>[Verify Member section and delegate](aa)</li><li>[Verify Type page except delegate](aa)</li><li>[View Code button should show up on adalErrorClass page and clicking it should jump to the correct source code site](aa)</li></ul>|
+|[Localization](Localization.md)|<ul><li>[Verify the comments, edit, share button](aa)</li><li>[Local Fallback: Verify the buttons of right hand side are localized](aa)</li><li>[Local Fallback: Verify the page show localized content with English token/art](aa)</li><li>[Verify anchor in the url [Disabled]](aa)</li><li>[Verify EU Banner](aa)</li><li>[Verify localized footer links ](aa)</li><li>[Verify toc and breadcrumb are localized](aa)</li></ul>|
