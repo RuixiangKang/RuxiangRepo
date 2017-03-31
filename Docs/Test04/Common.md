@@ -1,16 +1,15 @@
 # Common
-
 These test cases covered hub page,conceptual page,reference namespace page and reference class type page.<br>
 
 **Below is test cases list:**
-* [Verify all links of Header and Footer](#Verify all links of Header and Footer)
-* [Verify themeSelector](#Verify themeSelector)
-* [Verify sharing button](#Verify sharing button)
-* [Breadcrumb validation](#Breadcrumb validation)
-* [Verify Toc is presented and links are able to click](#Verify Toc is presented and links are able to click)
-* [Verify RedirectUrl work well](#Verify RedirectUrl work well)
+* [Verify all links of Header and Footer](#Verify_all_links_of_Header_and_Footer)
+* [Verify themeSelector](#Verify_themeSelector)
+* [Verify sharing button](#Verify_sharing_button)
+* [Breadcrumb validation](#Breadcrumb_validation)
+* [Verify Toc is presented and links are able to click](#Verify_Toc_is_presented_and_links_are_able_to_click)
+* [Verify RedirectUrl work well](#Verify_RedirectUrl_work_well)
 
-## Verify all links of Header and Footer
+## <a id='Verify_all_links_of_Header_and_Footer'></a>Verify all links of Header and Footer
 ### Check point
 * Verify the footer Privacy Statement is existed and the link is expected
 * Verify the footer Term Of Use is existed and the link is expected
@@ -28,7 +27,7 @@ These test cases covered hub page,conceptual page,reference namespace page and r
 * The sequence of these 4 items is accurate on page
 * The value of attribute 'href' and expected are consistent for these 4 items
 
-## Verify themeSelector
+## <a id='Verify_themeSelector'></a>Verify themeSelector
 ### Check point
 * Verify the Theme Selector are shown and can be clicked
 * Verify the element: html contain theme_night class when choose dark theme, and non for light theme
@@ -46,7 +45,7 @@ These test cases covered hub page,conceptual page,reference namespace page and r
 * The theme 'Light' and 'Dark' are reveal
 * The theme class value is expected
 
-## Verify  sharing button
+## <a id='Verify_sharing_button'></a>Verify  sharing button
 ### Check point
 * Verify the Sharing button is present
 * Verify the Sharing Facebook and Twitter is presented
@@ -66,7 +65,7 @@ These test cases covered hub page,conceptual page,reference namespace page and r
 * The Sharing Facebook is presented
 * The links of Sharing Facebook is accurate
 
-## Breadcrumb validation
+## <a id='Breadcrumb_validation'><a>Breadcrumb validation
 ### Check point
 * Verify the Breadcrumb is presented on conceptual page
 
@@ -78,7 +77,7 @@ These test cases covered hub page,conceptual page,reference namespace page and r
 **Expected**
 * The breadcrumb element count is greater than 0
 
-## Verify Toc is presented and links are able to click
+## <a id='Verify_Toc_is_presented_and_links_are_able_to_click'></a>Verify Toc is presented and links are able to click
 ### Check point
 *Reference*
 * Verify the TOC List is presented
@@ -102,7 +101,7 @@ These test cases covered hub page,conceptual page,reference namespace page and r
 * The url of page switch to is expected
 * The TOC header items name is expected
 
-## Verify RedirectUrl work wel
+## <a id='Verify_RedirectUrl_work_well'></a>Verify RedirectUrl work well
 ### Check point
 * Verify page will go to the assigned page
 
