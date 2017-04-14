@@ -1,5 +1,16 @@
 ## Verify code snippet(replaced by code sample)
+
+### Empty code 01
  
+ ```
+
+ ```
+
+### Empty code 02
+
+ ```
+ ```
+
 ### Normal code snippet with scrollbar
   ```
   On July 2, an alien ship entered Earth's orbit and deployed several dozen saucer-shaped "destroyer" spacecraft, each 15 miles (24 km) wide.
@@ -151,13 +162,4 @@ dfihsdiofnsdfoiweafsdnfisdofjdsiofnsdiofjsdiofndsfouisdhfndsjnfdsohfnsdijfndjnfd
  >### Import internal emptycode
  >[!Code-c[snippetGetActions_empty](.\CodeSnippets\emptycode)]
  
- ### Empty code 01
- 
- ```
 
- ```
-
-### Empty code 02
-
- ```
- ```
