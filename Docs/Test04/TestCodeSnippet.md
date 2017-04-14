@@ -152,10 +152,12 @@ dfihsdiofnsdfoiweafsdnfisdofjdsiofnsdiofjsdiofndsfouisdhfndsjnfdsohfnsdijfndjnfd
  >[!Code-c[snippetGetActions_empty](.\CodeSnippets\emptycode)]
  
  ### Empty code 01
+ 
  ```
 
  ```
 
 ### Empty code 02
+
  ```
  ```
