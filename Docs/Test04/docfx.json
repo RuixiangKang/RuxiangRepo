@@ -18,7 +18,7 @@
     ],
     "globalMetadata": {
         "ROBOTS": "INDEX, FOLLOW",
-        "hideEdit": true
+        "hideEdit": false
     },
     "externalReference": [
     ],
