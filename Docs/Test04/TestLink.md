@@ -30,3 +30,12 @@
 
 [VaildExternalBookMark]: https://www.google.com#sbtc  
 [InvaildExternalBookMark]: https://www.google.com#UnavaliableBookMark  
+
+
+[InvaildExternalBookMark](https://docs.microsoft.com/en-us/abc#UnavaliableBookMark) 
+[InvaildExternalBookMark2](https://docs.microsoft.com/en-us/abc#UnavaliableBookMark) 
+
+[TestGood](https://review.docs.microsoft.com/en-us/bot-framework/bot-design-principles#designing-a-bot)
+
+
+
