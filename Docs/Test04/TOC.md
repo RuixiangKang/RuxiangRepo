@@ -27,7 +27,6 @@
 ##[Test Unformatted URL]()
 ###[TEst~~~](Test~~~.md)
 ###[Test-=](Test-=.md)
-###[Test,.](Test,..md)
 ###[Test;'](Test;'.md)
 ###[Test()](Test().md)
 ###[Test[]](Test[].md)
