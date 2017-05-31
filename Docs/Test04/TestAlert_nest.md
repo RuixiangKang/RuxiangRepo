@@ -210,5 +210,5 @@
 >|Item templates|File types available in the **Add New Item** dialog box.|<ul><li>F# source file (.fs)<br /></li><li>F# script (.fsx)<br /></li><li>F# signature file (.fsi)<br /></li><li>Configuration file (.config)<br /></li><li>SQL Database Connection (LINQ-to-SQL type provider)<br /></li><li>SQL Database Connection (LINQ to Entities type provider)<br /></li><li>OData Service Connection (LINQ type provider)<br /></li><li>WSDL Service Connection (type provider)<br /></li><li>XML file (.xml)<br /></li><li>Text file<br /></li><ul/>|
 
 > [!NOTE]
-> Test link
+> Test  link
 > https://zhidao.baidu.com/search?ct=17&pn=0&tn=ikaslist&rn=10&word=win8%E5%A6%82%E4%BD%95%E6%89%93%E5%BC%80screen%20reader%E5%BF%AB%E6%8D%B7%E9%94%AE
