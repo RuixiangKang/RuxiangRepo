@@ -23,7 +23,7 @@ With Name
 
 ## Common code sample with text
 I am text with `code sample` example.
-I am text with empty `` code.
+I am text with empty ` ` code.
 
 ## Common code snippet
 01
