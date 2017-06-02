@@ -3,8 +3,22 @@
 
 ### Common code sample
 
+Without name
+
 ```
 I am code sample
+```
+
+With Name
+```c#
+  using system
+  public class Demo
+	{
+	 public void Main()
+	 {
+	        Console.WriteLine("Hello World");
+	 }
+	}
 ```
 
 ### common code sample with text
@@ -12,5 +26,8 @@ I am code sample
 I am text with `code sample` example.
 
 ### Common code snippet
+01
+[!Code-fsharp[snippetGetActions_fsharp](./CodeSnippets/code_test_fsharp.fs)]
 
-[!Codefsharp[snippetGetActions_fsharp](./CodeSnippets/code_test_fsharp.fs)] 
+02
+[!code-fs[code_test_fsharp](CodeSnippets\code_test_fsharp.fs)]
