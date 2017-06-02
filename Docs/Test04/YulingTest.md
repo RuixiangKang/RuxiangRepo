@@ -33,4 +33,10 @@ I am text with empty `` code.
 [!code-fs[code_test_fsharp](CodeSnippets\code_test_fsharp.fs)]
 
 03
-[!code-f#[code_test_fsharp](CodeSnippets\code_test_fsharp.fs)]
+[!code-csharp[code_test_fsharp](CodeSnippets\code_test_fsharp.fs)]
+
+04
+[!code-java[code_test_java](CodeSnippets\code_test_java.java)]
+
+05
+[!code-[emptycode](CodeSnippets\emptycode)]
