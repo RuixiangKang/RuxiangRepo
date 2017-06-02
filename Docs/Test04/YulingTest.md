@@ -1,7 +1,7 @@
 
 # I am test file
 
-### Common code sample
+## Common code sample
 
 Without name
 
@@ -21,13 +21,16 @@ With Name
 	}
 ```
 
-### common code sample with text
-
+## Common code sample with text
 I am text with `code sample` example.
+I am text with empty `` code.
 
-### Common code snippet
+## Common code snippet
 01
 [!Code-fsharp[snippetGetActions_fsharp](./CodeSnippets/code_test_fsharp.fs)]
 
 02
 [!code-fs[code_test_fsharp](CodeSnippets\code_test_fsharp.fs)]
+
+03
+[!code-f#[code_test_fsharp](CodeSnippets\code_test_fsharp.fs)]
