@@ -1,9 +1,11 @@
 # CATS Release Note
  
 ## The Latest Version Release Note
-|Type and Time|Changes|
-|--|--|
-|<b>Release type:</b></br>Weekly Release</br></br><b>Release time:</b></br> 06/02/2017 10:00 AM(Redmond)</br> 06/02/2017 18:00 PM(Shanghai)|<ul><li><b>Feature:</b><ul>N/A</ul></li><li><b>UI:</b><ul>N/A</ul></li><li><b>API:</b><ul> <li>Provide service for auto update example link list</li><li>Expose example links and cookies as API service</li></ul></li></ul>|
+<b>Type and Time</b>
+<b>Release type:</b></br>Weekly Release</br></br><b>Release time:</b></br> 06/02/2017 10:00 AM(Redmond)</br> 06/02/2017 18:00 PM(Shanghai)</br>
+
+<b>Changes</b>
+<ul><li><b>Feature:</b><ul>N/A</ul></li><li><b>UI:</b><ul>N/A</ul></li><li><b>API:</b><ul> <li>Provide service for auto update example link list</li><li>Expose example links and cookies as API service</li></ul></li></ul>|
 
 ## Previous Release Note for S118
 |Type and Time|Changes|
