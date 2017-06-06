@@ -8,7 +8,7 @@
 ## Previous Release Note for S118
 |Type and Time|Changes|
 |--|--|
-|<b>Release type:</b></br><li>Weekly Release</li></br><b>Release time:</b></br> <li>05/27/2017 10:00 AM(Redmond)</li><li>05/27/2017 18:00 PM(Shanghai)</li>|<ul><li><b>Feature:</b><ul><li>Support testing for site "docs.azure.cn"</li><li>Support parse for fusion toc</li><li>Exclude example links from broken links testing</li><li>Make the authentication(cookie/token) can be renewed automatically</li></ul></li><li><b>UI:</b><ul><li>Show total tested pages number on run detail information part and summary report page</li></ul></li><li><b>API:</b><ul> <li>Provide API for creating content validation run</li></ul></li></ul>|
+|<b>Release type:</b></br>Weekly Release</br><b>Release time:</b></br> 05/27/2017 10:00 AM(Redmond)</br> 05/27/2017 18:00 PM(Shanghai)|<ul><li><b>Feature:</b><ul><li>Support testing for site "docs.azure.cn"</li><li>Support parse for fusion toc</li><li>Exclude example links from broken links testing</li><li>Make the authentication(cookie/token) can be renewed automatically</li></ul></li><li><b>UI:</b><ul><li>Show total tested pages number on run detail information part and summary report page</li></ul></li><li><b>API:</b><ul> <li>Provide API for creating content validation run</li></ul></li></ul>|
 
 ## Release Type
 There are 2 kinds of release for both CATS test and prod environment:
