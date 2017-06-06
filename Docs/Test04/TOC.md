@@ -39,3 +39,4 @@
 ###[Test+and](Test+_.md)
 ###[Test$$$](Test$$$.md)
 ###[YulingTest](YulingTest.md)
+###[ReleaseNote](CATS-Release-Note.md)

@@ -1,14 +1,14 @@
 # CATS Release Note
  
 ## The Latest Version Release Note
-|Release Type |Changes|Release time|
-|--|--|--|
-|Weekly Release|<ul><li><b>Feature:</b><ul><li>Support testing for site "docs.azure.cn"</li><li>Support parse for fusion toc</li><li>Exclude example links from broken links testing</li><li>Make the authentication(cookie/token) can be renewed automatically</li></ul></li><li><b>UI:</b><ul><li>Show total tested pages number on run detail information part and summary report page</li></ul></li><li><b>API:</b><ul> <li>Provide API for creating content validation run</li></ul></li></ul>|05/27/2017(Shanghai)<br> 05/27/2017(Redmond)|
+|Type and Time|Changes|
+|--|--|
+|Release type:</br><li>Weekly Release</li></br>Release time：</br> <li>05/27/2017 10:00 AM(Redmond)</li><li>05/27/2017 18:00 PM(Shanghai)</li>|<ul><li><b>Feature:</b><ul><li>Support testing for site "docs.azure.cn"</li><li>Support parse for fusion toc</li><li>Exclude example links from broken links testing</li><li>Make the authentication(cookie/token) can be renewed automatically</li></ul></li><li><b>UI:</b><ul><li>Show total tested pages number on run detail information part and summary report page</li></ul></li><li><b>API:</b><ul> <li>Provide API for creating content validation run</li></ul></li></ul>|
 
 ## Previous Release Note for S118
-|Release Type|Changes|Release time|
-|--|--|--|
-|Weekly release|<ul><li><b>Feature:</b><ul><li>Support testing for site "docs.azure.cn"</li><li>Support parse for fusion toc</li><li>Exclude example links from broken links testing</li><li>Make the authentication(cookie/token) can be renewed automatically</li></ul></li><li><b>UI:</b><ul><li>Show total tested pages number on run detail information part and summary report page</li></ul></li><li><b>API:</b><ul> <li>Provide API for creating content validation run</li></ul></li></ul>|05/27/2017(Shanghai)<br> 05/27/2017(Redmond)|
+|Type and Time|Changes|
+|--|--|
+|Release type:</br><li>Weekly Release</li></br>Release time：</br> <li>05/27/2017 10:00 AM(Redmond)</li><li>05/27/2017 18:00 PM(Shanghai)</li>|<ul><li><b>Feature:</b><ul><li>Support testing for site "docs.azure.cn"</li><li>Support parse for fusion toc</li><li>Exclude example links from broken links testing</li><li>Make the authentication(cookie/token) can be renewed automatically</li></ul></li><li><b>UI:</b><ul><li>Show total tested pages number on run detail information part and summary report page</li></ul></li><li><b>API:</b><ul> <li>Provide API for creating content validation run</li></ul></li></ul>|
 
 ## Release Type
 There are 2 kinds of release for both CATS test and prod environment:
