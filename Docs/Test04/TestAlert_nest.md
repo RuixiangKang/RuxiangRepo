@@ -235,3 +235,7 @@
 
 > [!NOTE]
 ><b>this is b</b>
+
+> [!NOTE]
+><li>this is b</li>
+><li>this is li</li>
