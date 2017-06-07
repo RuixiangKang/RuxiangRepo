@@ -1,3 +1,5 @@
+
+
 ## Alert with Link(Nest)
 
 > [!NOTE] 
@@ -212,3 +214,24 @@
 > [!NOTE]
 > Test  link
 > https://zhidao.baidu.com/search?ct=17&pn=0&tn=ikaslist&rn=10&word=win8%E5%A6%82%E4%BD%95%E6%89%93%E5%BC%80screen%20reader%E5%BF%AB%E6%8D%B7%E9%94%AE
+
+> [!NOTE]
+><code>this is code sample</code>
+
+> [!NOTE]
+> ```this is code sample```
+
+> [!NOTE]
+><tr>this is tr</tr>
+
+> [!NOTE]
+><td>this is td</td>
+
+> [!NOTE]
+><th>this is th</th>
+
+> [!NOTE]
+><em>this is em</em>
+
+> [!NOTE]
+><b>this is b</b>
