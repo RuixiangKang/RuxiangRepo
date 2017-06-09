@@ -76,10 +76,11 @@ az group create --name myResourceGroup --location westeurope
 ## Nested code snippet
 ### Nested into Alert
 #### Nested into Alert 01
-[!NOTE]
+>[!NOTE]
+>``` 
+> 
 >```
->
->```
+
 #### Nested into Alert 02
 [!NOTE]
 >I'm a  sample code ` ` nested into NOTE alert
@@ -93,7 +94,7 @@ az group create --name myResourceGroup --location westeurope
 3. I'm a  sample code ` ` nested into list
 
 ### Nested into table
-| [!Code-[snippetGetActions_fsharp](./CodeSnippets/code_test_fsharp.fs)]  | [!Code-|[snippetGetActions_fsharp](./CodeSnippets/code_test_fsharp.fs)]       |
+| [!Code-empty[snippetGetActions_fsharp](./CodeSnippets/emptycode)]  | [!Code-|[snippetGetActions_fsharp](./CodeSnippets/code_test_fsharp.fs)]       |
 | ------------- | ----------- |
 |  ``` ```   |  ` `|
 
