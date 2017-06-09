@@ -82,7 +82,7 @@ az group create --name myResourceGroup --location westeurope
 >```
 
 #### Nested into Alert 02
-[!NOTE]
+>[!NOTE]
 >I'm a  sample code ` ` nested into NOTE alert
 
 ### Nested into list
@@ -94,9 +94,9 @@ az group create --name myResourceGroup --location westeurope
 3. I'm a  sample code ` ` nested into list
 
 ### Nested into table
-| [!Code-empty[snippetGetActions_fsharp](./CodeSnippets/emptycode)]  | [!Code-|[snippetGetActions_fsharp](./CodeSnippets/code_test_fsharp.fs)]       |
+| [!Code-fsharp[snippetGetActions_fsharp](./CodeSnippets/code_test_fsharp.fs)]  | [!Code-|[snippetGetActions_fsharp](./CodeSnippets/code_test_fsharp.fs)]       |
 | ------------- | ----------- |
-|  ``` ```   |  ` `|
+|   ``` ```  | ` ` |
 
 ### Empty code 01
  
