@@ -239,3 +239,13 @@
 > [!NOTE]
 ><li>this is b</li>
 ><li>this is li</li>
+
+> [!NOTE]
+><label>1、普通下拉列表菜单</label>
+<select name="">
+    <option value="0">divcss5</option>
+    <option value="1">DIVCSS5</option>
+</select><br />
+
+> [!NOTE]
+>-- Select Value -- ATA Deployment Guide 
