@@ -248,4 +248,32 @@
 </select><br />
 
 > [!NOTE]
->-- Select Value -- ATA Deployment Guide 
+>-- Select Value -- ATA Deployment Guide
+
+<div class="alert">
+<strong>Note</strong>  Right-click to display a context menu if selection or app bar commands are not appropriate UI behaviors. But we strongly recommend that you use the app bar for all command behaviors.
+</div>
+
+<div class="alert">
+<strong>Note</strong>  
+</div>
+
+<div class="alert">
+<strong></strong>  
+</div>
+
+<div class="alert">
+<strong></strong>  Right-click to display a context menu if selection or app bar commands are not appropriate UI behaviors. But we strongly recommend that you use the app bar for all command behaviors.
+</div>
+
+## Alert test
+### With **
+> **Note**  You don’t specify the starting point in this URI scheme. The starting point is always assumed to be the current location. If you need to specify a starting point other than the current location, see [Display directions and traffic](#display-directions-and-traffic).
+
+> **Note** 
+
+### With class
+<div class="alert">
+<strong>Warning</strong>  Right-click to display a context menu if selection or app bar commands are not appropriate UI behaviors. But we strongly recommend that you use the app bar for all command behaviors.
+</div>
+
