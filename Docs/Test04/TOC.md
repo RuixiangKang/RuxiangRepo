@@ -2,7 +2,7 @@
 ##[TestFiles](TestAlert_nest.md)
 ###[TestAlert_nest](TestAlert_nest.md)
 ####[TestAlert](TestAlert.md)
-####[EmptyAlert](./BugReproduce/EmptyAlert.md)
+####[EmptyAlert](BugReproduce/EmptyAlert.md)
 ###[TestCodeSnippet](TestCodeSnippet.md)
 ###[TestImage](TestImage.md)
 ###[TestTable](TestTable.md)
