@@ -281,3 +281,7 @@
 > empty alert [baidu]()
 >![I am flower]()
 
+> [!TIP] 
+> <img src=''></img>
+
+
