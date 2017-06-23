@@ -277,3 +277,6 @@
 <strong>Warning</strong>  Right-click to display a context menu if selection or app bar commands are not appropriate UI behaviors. But we strongly recommend that you use the app bar for all command behaviors.
 </div>
 
+> [!TIP] 
+> empty alert [baidu]()
+
