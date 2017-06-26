@@ -2,6 +2,16 @@
   "build_entry_point": "docs",
   "need_generate_pdf": false,
   "need_generate_intellisense": false,
+  "need_generate_pdf_url_template": true,
+   "master": [
+      "Publish",
+      "Pdf"
+    ]  
+  "Targets": {
+    "Pdf": {
+      "template_folder": "_themes.pdf"
+    }
+  },
   "docsets_to_publish": [
     {
       "docset_name": "Test01",
@@ -115,6 +125,7 @@
         "Conceptual": "Content"
       },
       "build_entry_point": "docs"
+      "pdf_build_exclude_tocs": []
     }
   ],
   "notification_subscribers": [
@@ -131,6 +142,11 @@
       "url": "https://github.com/Microsoft/templates.docs.msft",
       "branch": "master",
       "branch_mapping": {}
+    },
+      {
+      "path_to_root": "_themes.pdf",
+      "url": "https://github.com/Microsoft/templates.docs.msft.pdf",
+      "branch": "master"
     },
     {
       "path_to_root": "_themes.MSDN.Modern",
@@ -157,5 +173,5 @@
       "branch_mapping": {}
     }
   ],
-  "need_generate_pdf_url_template": false
+
 }
