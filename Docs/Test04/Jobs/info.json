@@ -3,7 +3,8 @@
   "jobId": 511,
   "files": [
     {
-      "fileName": "Pages/Test_job.resx",
+      "fileName": "Pages/Test_job.md",
+      "fileName": "Pages/Images/flower.jpg",
       "wordCount": 70,
       "sha": "e82e57ba04964f56c406eab5f14f75d3c6e78550"
     }
