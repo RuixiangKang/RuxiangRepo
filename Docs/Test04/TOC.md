@@ -12,7 +12,7 @@
 ####[TestMissingVideo](TestMissingVideo.md)
 ###[TestTable](TestTable.md)
 ####[TestTableNestOtherElements](TestTableNestOtherElements.md)
-####[TOC_Block_Test](InvalidTOC.md)
+####[TOC_Block_Test](InvalidTOC.zure.mgmt.network.operations.html#azure.mgmt.network.operations.ApplicationGatewaysOperations#azure.mgmt.network.operations.ApplicationGatewaysOperations.md)
 #####[TestTable1](TestTable1.md)
 #####[TestTable2](TestTable2.md)
 #####[TestTable3](TestTable3.md)
