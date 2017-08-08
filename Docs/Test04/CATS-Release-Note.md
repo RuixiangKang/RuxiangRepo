@@ -2,8 +2,7 @@
 
 ## 8/7/2017 Release
 * Feature
-  * Implement CATS BI dashboard and release to [CATS Analytics Hub](https://msit.powerbi.com/groups/me/dashboards/43e7e83d-b6f9-4f6e-8f6b-042194e4785b)
-  * Add link "Validation BI Data" for CATS BI dashboard in home page
+  * Implement [CATS BI dashboard](https://msit.powerbi.com/groups/me/dashboards/43e7e83d-b6f9-4f6e-8f6b-042194e4785b) and add link "Validation BI Data" in home page
 
 ## The Latest Version Release Note
 |Release Type |Changes|Release time|
