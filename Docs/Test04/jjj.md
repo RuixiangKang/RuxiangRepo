@@ -23,24 +23,25 @@
 
 <font color="#0066ff" size=4 face="Calibri Light">Quick ref of CATS issues -- Content Validation<br></font>
 <font color="#0047b3" size=3.8 face="Calibri Light">P0  test cases</font>
-Test case|Issue reported|cat
--|-|-
+|Test case|Issue reported|Actions proposed|
+|-|-|-|
 Missing breadcrumb|||
 ||||
 ||||
 
 <font color="#0047b3" size=3.8 face="Calibri Light">P1  test cases</font>
-Test case|Issue reported|cat
--|-|-
+|Test case|Issue reported|Actions proposed|
+|-|-|-|
 ||||
 ||||
 ||||
 
 <font color="#0047b3" size=3.8 face="Calibri Light">P2  test cases</font>
-Test case|Issue reported|cat
--|-|-
+|Test case|Issue reported|Actions proposed|
+|-|-|-|
 ||||
 ||||
 ||||
 
 <font color="#0066ff" size=4 face="Calibri Light">CATS API<br></font>
+  
