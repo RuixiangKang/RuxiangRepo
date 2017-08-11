@@ -1,3 +1,4 @@
+# CATS help document
 ## FAQ:(H2)
 ### About CATS run(H3)
 
@@ -33,7 +34,7 @@ Missing breadcrumb | |
 
 Test case | Issue reported | Actions proposed
 --------- | -------------- | ----------------
-Missing breadcrumb | | 
+|| 
 ||
 ||
 
@@ -42,7 +43,7 @@ Missing breadcrumb | |
 
 Test case | Issue reported | Actions proposed
 --------- | -------------- | ----------------
-Missing breadcrumb | | 
+||
 ||
 ||
 
