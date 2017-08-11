@@ -48,5 +48,5 @@ Test case | Issue reported | Actions proposed
 ||
 ||
 
-## CATS API<br>
+## CATS API
   
