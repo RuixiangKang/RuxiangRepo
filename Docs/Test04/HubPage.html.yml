@@ -1,0 +1,380 @@
+- uid: africa
+  name: Africa
+- uid: all
+  name: all
+- uid: allapis
+  name: All APIs
+- uid: allPackages
+  name: All Packages
+- uid: americas
+  name: Americas
+- uid: apiReference
+  name: '{0} API Reference'
+- uid: apiSearchIsUnavailable
+  name: API search is unavailable. Please try again later.
+- uid: applies.to
+  name: 'Applies to:'
+- uid: asia
+  name: Asia
+- uid: author.name
+  name: Author Name
+- uid: azureDisclaimer
+  name: Azure Cloud Shell uses your existing Azure subscriptions. Using Cloud Shell and executing commands will incur associated costs.
+- uid: back.to.top
+  name: Back to top
+- uid: change.page.locale
+  name: Change Page Language
+- uid: clearfilter
+  name: Clear Filter
+- uid: clearterm
+  name: Clear Term
+- uid: close
+  name: Close
+- uid: cloudShell.accountError
+  name: There was an error accessing your Azure account.
+- uid: cloudShell.chooseAccount
+  name: Choose one of your Azure accounts.
+- uid: cloudShell.loggingIn
+  name: Logging into Azure Cloud Shell...
+- uid: cloudShell.pleaseLogin
+  name: 'To use the Azure Cloud Shell, please login with your Azure account.'
+- uid: code
+  name: Code
+- uid: comments
+  name: Comments
+- uid: contributorGuide
+  name: How to contribute
+- uid: contributors
+  name: Contributors
+- uid: cookie.consent.europe
+  name: 'By using this site you agree to the use of cookies for analytics, personalized content and ads.'
+- uid: copy
+  name: Copy
+- uid: currentSelection
+  name: 'Current Selection:'
+- uid: dark
+  name: Dark
+- uid: disable
+  name: Disable
+- uid: disclaimer.moniker
+  name: This API is not supported in the currently selected framework.
+- uid: disclaimer.sxs.human
+  name: You can display the English text in a popup window by moving the mouse pointer over the text.
+- uid: disclaimer.sxs.machine
+  name: This article was translated by machine. You can display the English text in a popup window by moving the mouse pointer over the text.
+- uid: disclaimer.text
+  name: This content is not available in your language. Here is the English version.
+- uid: dotnetApiBrowser
+  name: .NET API Browser
+- uid: downloadPdf
+  name: Download PDF
+- uid: edit
+  name: Edit
+- uid: editdesc
+  name: Edit This Document
+- uid: email
+  name: Email
+- uid: enable
+  name: Enable
+- uid: error
+  name: Error
+- uid: europe
+  name: Europe
+- uid: facebook
+  name: Facebook
+- uid: feedback
+  name: Feedback
+- uid: feedbackCommunityHelp
+  name: Community Help
+- uid: feedbackProduct
+  name: Product Feedback
+- uid: filter.placeholder
+  name: Filter
+- uid: filter.text
+  name: Filter
+- uid: findALanguage
+  name: Find a language
+- uid: footer.blog
+  name: Blog
+- uid: impressum.text
+  name: Impressum
+- uid: in.this.article
+  name: In this article
+- uid: language
+  name: Language
+- uid: last.updated
+  name: updated
+- uid: learnmore
+  name: Learn more
+- uid: light
+  name: Light
+- uid: linkedin
+  name: LinkedIn
+- uid: loading
+  name: Loading...
+- uid: loadMoreResults
+  name: Load more results
+- uid: login
+  name: Login
+- uid: maximize
+  name: Maximize
+- uid: middleEast
+  name: Middle East
+- uid: min.to.read
+  name: min to read
+- uid: minimize
+  name: Minimize
+- uid: moduleReference
+  name: '{0} Module Reference'
+- uid: monikerFallback
+  name: 'The requested page is not available for {0}. You have been redirected to a compatible version.'
+- uid: more
+  name: More
+- uid: msdn.redirection.message
+  name: You were redirected to this page from MSDN.  We are in the process of migrating all technical content to docs.microsoft.com.
+- uid: next
+  name: Next
+- uid: no.date
+  name: date not available
+- uid: no.description
+  name: description not available
+- uid: no.results
+  name: No results
+- uid: no.search.term
+  name: No search term
+- uid: noOutput
+  name: No output
+- uid: null.option.description
+  name: '-- Select Value --'
+- uid: options
+  name: Options
+- uid: pacific
+  name: Pacific
+- uid: platform
+  name: Platform
+- uid: powershellModuleBrowser
+  name: PowerShell Module Browser
+- uid: previous
+  name: Previous
+- uid: privacy.statement
+  name: Privacy &amp; Cookies
+- uid: privacystatement
+  name: Privacy Statement
+- uid: product
+  name: Product
+- uid: product.feedback
+  name: 'To submit product feedback, please visit'
+- uid: quickfilters
+  name: Quick Filters
+- uid: response.code
+  name: Response Code
+- uid: response.header
+  name: Response Header
+- uid: restart
+  name: Restart
+- uid: results.title
+  name: Search results for
+- uid: run
+  name: Run
+- uid: sample.request
+  name: Sample Request
+- uid: sample.response
+  name: Sample Response
+- uid: search
+  name: Search
+- uid: searchScopeAction
+  name: Tap to remove filter.
+- uid: searchScopeInfo
+  name: Search filter set to
+- uid: selectLocaleInstructions
+  name: Filter the list of languages by selecting a region or by typing the language name or locale code.
+- uid: share
+  name: Share
+- uid: sharedArticleSubject
+  name: '[Shared Article] {0}'
+- uid: sharedesc
+  name: Share This Document
+- uid: slack
+  name: Slack
+- uid: terms.of.use
+  name: Terms of Use
+- uid: test.request
+  name: Test Request
+- uid: theme
+  name: Theme
+- uid: token.acceptedValues
+  name: accepted values
+- uid: token.additionalFeaturesAndRequirements
+  name: Additional features and requirements
+- uid: token.attributes
+  name: Attributes
+- uid: token.caution
+  name: Caution
+- uid: token.classesInSubtitle
+  name: Classes
+- uid: token.clsCompliant
+  name: This API is not CLS-compliant.
+- uid: token.clsCompliantAlt
+  name: CLS-compliant alternative
+- uid: token.commands
+  name: Commands
+- uid: token.constructorsInSubtitle
+  name: Constructors
+- uid: token.defaultValue
+  name: default value
+- uid: token.definition
+  name: Definition
+- uid: token.delegatesInSubtitle
+  name: Delegates
+- uid: token.derived
+  name: Derived
+- uid: token.description
+  name: Description
+- uid: token.edit
+  name: Edit
+- uid: token.eiisInSubtitle
+  name: Explicit Interface Implementations
+- uid: token.enumsInSubtitle
+  name: Enums
+- uid: token.eventsInSubtitle
+  name: Events
+- uid: token.examples
+  name: Examples
+- uid: token.exceptions
+  name: Exceptions
+- uid: token.extensionMethodsInSubtitle
+  name: Extension Methods
+- uid: token.fieldsInSubtitle
+  name: Fields
+- uid: token.globalParameters
+  name: Global Parameters
+- uid: token.implements
+  name: Implements
+- uid: token.important
+  name: Important
+- uid: token.in
+  name: in
+- uid: token.inheritance
+  name: Inheritance
+- uid: token.inheritedMembers
+  name: Inherited Members
+- uid: token.interfacesInSubtitle
+  name: Interfaces
+- uid: token.inThisArticle
+  name: In This Article
+- uid: token.loadMore
+  name: 'More&#8230;'
+- uid: token.members
+  name: Members
+- uid: token.methodsInSubtitle
+  name: Methods
+- uid: token.name
+  name: Name
+- uid: token.namespace
+  name: Namespace
+- uid: token.namespaces
+  name: Namespaces
+- uid: token.next
+  name: Next Steps
+- uid: token.note
+  name: Note
+- uid: token.operatorsInSubtitle
+  name: Operators
+- uid: token.optionalParameters
+  name: Optional Parameters
+- uid: token.overloads
+  name: Overloads
+- uid: token.overrides
+  name: Overrides
+- uid: token.package
+  name: Package
+- uid: token.packages
+  name: Packages
+- uid: token.parameters
+  name: Parameters
+- uid: token.propertiesInSubtitle
+  name: Properties
+- uid: token.readonly
+  name: read only
+- uid: token.remarks
+  name: Remarks
+- uid: token.required
+  name: required
+- uid: token.requiredParameters
+  name: Required Parameters
+- uid: token.returns
+  name: Returns
+- uid: token.seeAlso
+  name: See Also
+- uid: token.services
+  name: Services
+- uid: token.showAllDerived
+  name: Show all derived classes
+- uid: token.structsInSubtitle
+  name: Structs
+- uid: token.threadSafety
+  name: Thread Safety
+- uid: token.tip
+  name: Tip
+- uid: token.tutorial_complete100
+  name: 100% Complete!
+- uid: token.tutorial_congratulations
+  name: Congratulations!
+- uid: token.tutorial_continueHere
+  name: Continue Here
+- uid: token.tutorial_furtherReading
+  name: Further Reading
+- uid: token.tutorial_introduction
+  name: Introduction
+- uid: token.tutorial_minRemain
+  name: '{0}min Remaining'
+- uid: token.tutorial_minsRemaining
+  name: '{0}min Remaining'
+- uid: token.tutorial_minutesToComplete
+  name: '{0} Minutes to Complete'
+- uid: token.tutorial_next
+  name: Next
+- uid: token.tutorial_nextSteps
+  name: Next Steps
+- uid: token.tutorial_nextTutorial
+  name: Next Tutorial
+- uid: token.tutorial_previous
+  name: Previous
+- uid: token.tutorial_resources
+  name: Resources
+- uid: token.tutorial_seeAllContributors
+  name: 'See all {0} or become a contributor by suggesting imporvement on {1}'
+- uid: token.tutorial_youLearned
+  name: You learned how to...
+- uid: token.tutorial_youveCompleted
+  name: 'You''ve completed the "{0}" tutorial.'
+- uid: token.tutorial_youWillLearn
+  name: You will learn how to...
+- uid: token.type
+  name: type
+- uid: token.typeParameters
+  name: Type Parameters
+- uid: token.usage
+  name: Usage
+- uid: token.value
+  name: Value
+- uid: token.valueFrom
+  name: value from
+- uid: token.warning
+  name: Warning
+- uid: token.win10Requirements
+  name: Windows 10 requirements
+- uid: trademarks
+  name: Trademarks
+- uid: try.it
+  name: Try It
+- uid: twitter
+  name: Twitter
+- uid: type
+  name: Type
+- uid: version
+  name: Version
+- uid: view.source
+  name: View Code
+- uid: worldwide
+  name: Worldwide
