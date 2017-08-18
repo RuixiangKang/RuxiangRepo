@@ -31,17 +31,16 @@ Get Postman for Chrome installed
 #### How to use in postman
 1. Launch Postman for Chrome -- Open "chrome://apps/", then click PostMan
 2. Enter request URL
-- **HttpMethod**: *Post*
-- **URL**: mentioned in [API](#api) part
+    - **HttpMethod**: *Post*
+    - **URL**: mentioned in [API](#api) part
 3. Enter request body
-- Click **Body**, select **raw** and **JSON(application/json)**
-- Input Request body with **JSON** format
-- 
+    - Click **Body**, select **raw** and **JSON(application/json)**
+    - Input Request body with **JSON** format
 |Field    |Required |Format   |Comment  |
 |---------|---------|---------|---------|
 |runName  |Y        | string  |<=32 chars|
 |CreatedBy|Y        | Domain\\alias |         |
-|testCaseIds |   Y  |         | Support multiple testcases, you can get all the CATS cases info from [Get CATS test case list](#get-cats-test-cases-list)  <br> <ul><li>Test case - "IsRequired: true" is required</li><li>Only active cases is allowed - "IsActive: true" </li> </ul>     |
+|testCaseIds |   Y  |  string(split with ', if multi')       | Support multiple testcases, you can get all the CATS cases info from [Get CATS test case list](#get-cats-test-cases-list)  <br> <ul><li>Test case - "IsRequired: true" is required</li><li>Only active cases is allowed - "IsActive: true" </li> </ul>     |
 |testUrls    |   Y  |  Standard http(s) url, support docs only now |   Support multiple urls      |
 
     - Request body format
