@@ -36,6 +36,7 @@ Get Postman for Chrome installed
 3. Enter request body
     - Click **Body**, select **raw** and **JSON(application/json)**
     - Input Request body with **JSON** format
+
 |Field    |Required |Format   |Comment  |
 |---------|---------|---------|---------|
 |runName  |Y        | string  |<=32 chars|
@@ -46,7 +47,7 @@ Get Postman for Chrome installed
     - Request body format
     <pre> 
     {
-        "runName":"{your run name}",
+        "runName":"{your run name}",
         "createdBy":"{your alias}",
         "testCaseIds": "CATS test CaseId1", "CATS test CaseId2", …,
         "testUrls":["URL1", "URL2"]
@@ -62,7 +63,7 @@ Get Postman for Chrome installed
     }
     </pre>
 
-5. Click **Send**, runid and resultUrl(report page url) will returned,
+4. Click **Send**, runid and resultUrl(report page url) will returned,
     ![Trigger a CATS Run](../Images/Trigger_a_CATS_Run.png)
 
 ### <a id='get-cats-test-cases-list'></a> Get CATS test case list
