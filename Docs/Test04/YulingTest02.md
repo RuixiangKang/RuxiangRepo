@@ -25,6 +25,7 @@ Triggering CATS run via call CATS API
 #### Pre-requisites:
 Get Postman for Chrome installed
 - Install Postman for Chrome from: https://www.getpostman.com/apps 
+
 > [!TIP] 
 > Need to use PostMan for chrome app. You'll get 401.2 - Unauthorized error message if use Postman for windowns, because CATS requires windows authentication and it has not supported in Postman for Windows App now. 
 
@@ -36,7 +37,7 @@ Get Postman for Chrome installed
 3. Enter request body
     - Click **Body**, select **raw** and **JSON(application/json)**
     - Input Request body with **JSON** format
-|Field    |Required |Format   |Comment  |
+|Field    |:Required: |Format   |Comment  |
 |---------|---------|---------|---------|
 |runName  |Y        | string  |<=32 chars|
 |CreatedBy|Y        | Domain\\alias |         |
