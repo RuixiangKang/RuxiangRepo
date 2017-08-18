@@ -36,18 +36,17 @@ Get Postman for Chrome installed
 3. Enter request body
     - Click **Body**, select **raw** and **JSON(application/json)**
     - Input Request body with **JSON** format
-
 |Field    |Required |Format   |Comment  |
 |---------|---------|---------|---------|
 |runName  |Y        | string  |<=32 chars|
 |CreatedBy|Y        | Domain\\alias |         |
-|testCaseIds |   Y  |  string(split with ', if multi')       | Support multiple testcases, you can get all the CATS cases info from [Get CATS test case list](#get-cats-test-cases-list)  <br> <ul><li>Test case - "IsRequired: true" is required</li><li>Only active cases is allowed - "IsActive: true" </li> </ul>     |
+|testCaseIds |   Y  |  string(split with ',' if multiple)       | Support multiple testcases, you can get all the CATS cases info from [Get CATS test case list](#get-cats-test-cases-list)  <br> <ul><li>Test case - "IsRequired: true" is required</li><li>Only active cases is allowed - "IsActive: true" </li> </ul>     |
 |testUrls    |   Y  |  Standard http(s) url, support docs only now |   Support multiple urls      |
 
     - Request body format
     <pre> 
     {
-        "runName":"{your run name}",
+        "runName":"{your run name}",
         "createdBy":"{your alias}",
         "testCaseIds": "CATS test CaseId1", "CATS test CaseId2", …,
         "testUrls":["URL1", "URL2"]
