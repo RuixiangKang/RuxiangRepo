@@ -37,8 +37,8 @@ Get Postman for Chrome installed
 3. Enter request body
     - Click **Body**, select **raw** and **JSON(application/json)**
     - Input Request body with **JSON** format
-|Field    |:Required: |Format   |Comment  |
-|---------|---------|---------|---------|
+|Field    |Required |Format   |Comment  |
+|---------|:--------:|---------|---------|
 |runName  |Y        | string  |<=32 chars|
 |createdBy|Y        | Domain\\alias |         |
 |testCaseIds |   Y  |  string(split with ',' if multiple)       | Support multiple testcases, you can get all the CATS cases info from [Get CATS test case list](#get-cats-test-cases-list)  <br> <ul><li>Test case - "IsRequired: true" is required</li><li>Only active cases is allowed - "IsActive: true" </li> </ul>     |
