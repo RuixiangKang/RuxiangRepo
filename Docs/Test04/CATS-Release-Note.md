@@ -1,5 +1,16 @@
 # CATS Release Note
 
+
+## 8/21/2017 Release
+* Feature:
+  * Added 2 new test cases for metadata validation
+    *	Required metadata populated by author
+    *	Required metadata populated by OPS
+* UI:
+  * Updated all time exposed in UI and email to machine time
+* API
+  * Update metadata validation rules with [Metadata rule api service](http://csiwebapi.cloudapp.net/MetadataCheck/MetadataRules)
+
 ## 8/7/2017 Release
 * Feature
   * Implement [CATS BI dashboard](https://msit.powerbi.com/groups/me/dashboards/43e7e83d-b6f9-4f6e-8f6b-042194e4785b) and add link "Validation BI Data" in home page
