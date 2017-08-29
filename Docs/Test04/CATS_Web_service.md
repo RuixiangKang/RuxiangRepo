@@ -48,13 +48,13 @@ User could call the web service api via UI tool (PostMan)
        - ["Single URL"]
        - ["URL1", "URL2","URL3"]   
 5. Click **Send** to get output broken links
-![Call Web Service Througn PostMan image](../Images/Call_Web_Service_Through_PostMan.png)
+![Call Web Service Througn PostMan image](./Images/Call_Web_Service_Through_PostMan.png)
 
 ### View Result
  User could get the result either via [**SkyEye Broken link report**](http://aka.ms/skyeye/brokenlink) or via **UI tool** (PostMan)
  - SkyEye will run broken link daily check and generate the latest report in [SkyEye Broken link report](http://aka.ms/skyeye/brokenlink)
    - User can open the above report link to check the latest report for broken link.
-   [The_Latest_SkyeEyeBrokenLink_Report](The_Latest_SkyeEyeBrokenLink_Report.png)
+   [The_Latest_SkyeEyeBrokenLink_Report](./Images/The_Latest_SkyeEyeBrokenLink_Report.png)
   
  - In UI tool response body, after clicking "Send" at step5, select Json format, and the test result will display:
    
@@ -93,8 +93,8 @@ User could call the web service api via UI tool (PostMan)
     |Field	|Value|
     |------|-------|
 	|Method|get|
-	|Request URL	|{Host}/api/link/getresponsecode <br>e.g. http://10.213.224.35/api/link/getresponsecode |
+	|Request URL	|{Host}/api/link/getresponsecode <br>(e.g. http://10.213.224.35/api/link/getresponsecode) |
 
-    ![Get Response Code]()   
+    ![Get Response Code](./Images/Get Response Code.png)   
 
 
