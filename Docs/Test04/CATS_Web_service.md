@@ -38,6 +38,7 @@ User could call the web service api via UI tool (PostMan)
 2. Entry access url mentioned in [Host](#host) part. Select *HttpMethod* as **Post**
 3. Click Body, select **raw** and select display text as **JSON(application/json)**
 4. In request body, input url list with **JSON** format. The input urls count is limited to 1000
+
 #### Request header：
     - **Method**: Post
     - **Request URL**: {Host}/api/link/getbrokenlink  (e.g. http://10.213.224.35/api/link/getbrokenlink)
@@ -47,7 +48,7 @@ User could call the web service api via UI tool (PostMan)
             - ["Single URL"]
             - ["URL1", "URL2","URL3"]   
 5. Click **Send** to get output broken links
-![Call Web Service Througn PostMan image](../Images/Call_Web_Service_Througn_PostMan.png)
+![Call Web Service Througn PostMan image](../Images/Call_Web_Service_Through_PostMan.png)
 
 ### View Result
  User could get the result either via [**SkyEye Broken link report**](http://aka.ms/skyeye/brokenlink) or via **UI tool** (PostMan)
@@ -88,12 +89,12 @@ User could call the web service api via UI tool (PostMan)
   - **1002**: Input url is not a validate http url
   - **1003**: Internal docs url and need user to login
     
- Also, you can call the API via *httpget* method with no input parameter to check the definitions of response code.e.g.
+ Also, you can call the API via *httpget* method with no input parameter to check the definitions of response code.
     |Field	|Value|
     |------|-------|
 	|Method|get|
 	|Request URL	|{Host}/api/link/getresponsecode <br>e.g. http://10.213.224.35/api/link/getresponsecode |
 
-    ![Get Response Code](../Images/Get_Response_Code.png)   
+    ![Get Response Code]()   
 
 
