@@ -39,14 +39,14 @@ User could call the web service api via UI tool (PostMan)
 3. Click Body, select **raw** and select display text as **JSON(application/json)**
 4. In request body, input url list with **JSON** format. The input urls count is limited to 1000
 
-#### Request header：
-    - **Method**: Post
-    - **Request URL**: {Host}/api/link/getbrokenlink  (e.g. http://10.213.224.35/api/link/getbrokenlink)
-    - **Body**:
-        - Option: raw, Json 
-        - Content: 
-            - ["Single URL"]
-            - ["URL1", "URL2","URL3"]   
+#### Request header
+   - **Method**: Post
+   - **Request URL**: {Host}/api/link/getbrokenlink  (e.g. http://10.213.224.35/api/link/getbrokenlink)
+   - **Body**:
+     - Option: raw, Json 
+     - Content: 
+       - ["Single URL"]
+       - ["URL1", "URL2","URL3"]   
 5. Click **Send** to get output broken links
 ![Call Web Service Througn PostMan image](../Images/Call_Web_Service_Through_PostMan.png)
 
@@ -56,7 +56,7 @@ User could call the web service api via UI tool (PostMan)
    - User can open the above report link to check the latest report for broken link.
    [The_Latest_SkyeEyeBrokenLink_Report](The_Latest_SkyeEyeBrokenLink_Report.png)
   
- - In UI tool response body, after clicking "Send" at [Step5](#### Request header), select Json format, and the test result will display:
+ - In UI tool response body, after clicking "Send" at step5, select Json format, and the test result will display:
    
    {
      - **Url**: the input URL   
