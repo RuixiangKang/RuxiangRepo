@@ -8,4 +8,4 @@
 ###[TestList_Meta](TestList_Meta.md)
 ###[TestMeta_List](TestMeta_List.md)
 ###[TestLink](TestLink.md)
-###[ActiveDirectorytest](Microsoft.IdentityModel.Clients.ActiveDirectory-test.yml)
+###[ActiveDirectory](Microsoft.IdentityModel.Clients.ActiveDirectory.yml)
