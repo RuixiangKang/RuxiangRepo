@@ -39,6 +39,7 @@
         "Conceptual": "Content"
       },
       "build_entry_point": "op",
+      "template_folder": "_themes.VS
       "version": 0
     },
     {
