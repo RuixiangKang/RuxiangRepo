@@ -56,7 +56,7 @@
       "docset_name": "Test05",
       "build_source_folder": "Docs/Test05",
       "build_output_subfolder": "Docs/Test05",
-      "locale": "en-us",
+      "locale": "zh-cn",
       "monikers": [],
       "moniker_ranges": [],
       "open_to_public_contributors": true,
@@ -64,7 +64,7 @@
         "Conceptual": "Content"
       },
       "build_entry_point": "docs",
-      "template_folder": "_themes.MSDN.Modern",
+      "template_folder": "_themes",
       "version": 0
     },
     {
