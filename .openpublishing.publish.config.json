@@ -8,113 +8,115 @@
       "build_source_folder": "Docs/Test01",
       "build_output_subfolder": "Docs/Test01",
       "locale": "en-us",
-      "version": 0,
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content"
       },
-      "build_entry_point": "op"
+      "build_entry_point": "op",
+      "version": 0
     },
     {
       "docset_name": "Test02",
       "build_source_folder": "Docs/Test02",
       "build_output_subfolder": "Docs/Test02",
       "locale": "en-us",
-      "version": 0,
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content"
       },
-      "build_entry_point": "op"
+      "build_entry_point": "op",
+      "version": 0
     },
     {
       "docset_name": "Test03",
       "build_source_folder": "Docs/Test03",
       "build_output_subfolder": "Docs/Test03",
       "locale": "en-us",
-      "version": 0,
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content"
       },
-      "build_entry_point": "op"
+      "build_entry_point": "op",
+      "version": 0
     },
     {
       "docset_name": "Test04",
       "build_source_folder": "Docs/Test04",
       "build_output_subfolder": "Docs/Test04",
       "locale": "en-us",
-      "version": 0,
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content"
       },
       "build_entry_point": "docs",
-      "template_folder": "_themes"
+      "template_folder": "_themes",
+      "version": 0
     },
     {
       "docset_name": "Test05",
       "build_source_folder": "Docs/Test05",
       "build_output_subfolder": "Docs/Test05",
       "locale": "en-us",
-      "version": 0,
+      "monikers": [],
+      "moniker_ranges": [],
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content"
       },
       "build_entry_point": "docs",
-      "template_folder": "_themes.MSDN.Modern"
+      "template_folder": "_themes.MSDN.Modern",
+      "version": 0
     },
     {
       "docset_name": "Test06",
       "build_source_folder": "Docs/Test06",
       "build_output_subfolder": "Docs/Test06",
       "locale": "en-us",
-      "version": 0,
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content"
       },
       "build_entry_point": "docs",
-      "template_folder": "_themes.VS.Modern"
+      "template_folder": "_themes.VS.Modern",
+      "version": 0
     },
     {
       "docset_name": "Test07",
       "build_source_folder": "Docs/Test07",
       "build_output_subfolder": "Docs/Test07",
       "locale": "en-us",
-      "version": 0,
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content"
       },
       "build_entry_point": "docs",
-      "template_folder": "_themes.TechNet.Modern"
+      "template_folder": "_themes.TechNet.Modern",
+      "version": 0
     },
     {
       "docset_name": "Test08",
       "build_source_folder": "Docs/Test08",
       "build_output_subfolder": "Docs/Test08",
       "locale": "en-us",
-      "version": 0,
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content"
       },
       "build_entry_point": "docs",
-      "template_folder": "_themes.OPS"
+      "template_folder": "_themes.OPS",
+      "version": 0
     },
     {
       "docset_name": "Test09",
       "build_source_folder": "Docs/Test09",
       "build_output_subfolder": "Docs/Test09",
       "locale": "en-us",
-      "version": 0,
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content"
       },
-      "build_entry_point": "docs"
+      "build_entry_point": "docs",
+      "version": 0
     }
   ],
   "notification_subscribers": [
