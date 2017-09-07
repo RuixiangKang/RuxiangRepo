@@ -32,6 +32,8 @@
       "build_source_folder": "Docs/Test03",
       "build_output_subfolder": "Docs/Test03",
       "locale": "en-us",
+      "monikers": [],
+      "moniker_ranges": [],
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content"
