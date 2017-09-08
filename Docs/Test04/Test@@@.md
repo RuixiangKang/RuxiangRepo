@@ -1,3 +1,0 @@
-# Test
-
-![](./Images/flower.jpg)
