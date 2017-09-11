@@ -38,5 +38,6 @@
 ### [Large (Expression)](reference/System.Linq.Expressions.Expression.yml)
 ### [Large (System.String)](reference/System.String.yml)
 ## [Langpage-overview](landingpage/overview.md)
+### [Langpage-overview](landingpage/index.yml)
 ## [hubpage-overview](hubpage/index.md)
-## [hubpage-msdn-overview](hub/msdn.md)
+### [hubpage-msdn-overview](hubpage/msdn.md)
