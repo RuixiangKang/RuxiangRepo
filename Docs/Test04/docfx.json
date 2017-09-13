@@ -1,25 +1,28 @@
+{
+  "build": {
     "content":
       [
         {
-            "files": ["**/**.md", "**/*.yml"], 
-          "exclude": ["**/obj/**"],
+          "files": ["**/**.md","**/*.yml"],
+          "exclude": ["**/obj/**"]
         }
       ],
     "resource": [
         {
-         "files": ["**/images/**"],
+          "files": ["**/images/**"],
           "exclude": [
-         "token/**"
+            "**/obj/**",
+            "token/**"
           ]
         }
     ],
     "globalMetadata": {
-       "ROBOTS": "INDEX, FOLLOW",
-       "hideEdit": false
+        "ROBOTS": "INDEX, FOLLOW",
+        "hideEdit": false
     },
-   
     "externalReference": [
     ],
     "template": "op.html",
-    "dest": "Docs/Test04"
+    "dest": "Docs/PSITPro5_Management"
   }
+}
