@@ -4,8 +4,7 @@
       [
         {
             "files": ["**/**.md", "**/*.yml"], 
- -          "exclude": ["**/obj/**"]
-          ],
+          "exclude": ["**/obj/**"],
         }
       ],
     "resource": [
@@ -18,7 +17,7 @@
     ],
     "globalMetadata": {
        "ROBOTS": "INDEX, FOLLOW",
- -        "hideEdit": false
+       "hideEdit": false
     },
    
     "externalReference": [
