@@ -3,26 +3,53 @@
     "content":
       [
         {
-          "files": ["**/**.md"],
-          "exclude": ["**/obj/**"]
+          "files": [
+            "**/**.md",
+            "restapi/**.json",
+            "**/*.yml"
+          ],
+          "exclude": [
+            "**/obj/**",
+            "_themes/**",
+            "token/**",
+            "**/*-operations.md",
+            "restapi/azure/**.md"
+          ]
         }
       ],
     "resource": [
         {
-          "files": ["**/images/**"],
+          "files": ["**/**.bmp", "**/**.gif", "**/**.ico", "**/**.jpg", "**/**.jpeg", "**/**.png","breadcrumb.json"],
           "exclude": [
             "**/obj/**",
-            "token/**"
+            "_themes/**"
           ]
         }
     ],
     "globalMetadata": {
-        "ROBOTS": "INDEX, FOLLOW",
-        "hideEdit": false
+        "ROBOTS": "NOINDEX, NOFOLLOW",
+        "breadcrumb_path": "/openpublishing/test/breadcrumb.json",
+        "_mockServerUrl": "https://apiexproxy.azurewebsites.net/svc",
+        "_mockServerAuthorization": "Bearer {token:https://graph.windows.net/}",
+        "is_e2e_test": true
     },
+    "fileMetadata": {
+        "author": {
+            "reference/**": "dotnet-bot",
+            "restapi/**": "dotnet-bot"
+        }
+    },
+    "overwrite":
+    [
+      {
+        "files": [
+          "**/*-operations.md",
+          "restapi/azure/cognitiveservices/*.md"
+        ]
+      }
+    ],
     "externalReference": [
     ],
     "template": "op.html",
-    "dest": "Docs/PSITPro5_Management"
+    "dest": "openpublishing/test"
   }
-}
