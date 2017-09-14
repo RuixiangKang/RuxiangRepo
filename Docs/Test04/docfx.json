@@ -5,8 +5,7 @@
         {
           "files": [
             "**/**.md",
-            "restapi/**.json",
-            "**/*.yml"
+            "**/*.yml",
           ],
           "exclude": ["**/obj/**"]
         }
