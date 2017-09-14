@@ -3,7 +3,11 @@
     "content":
       [
         {
-          "files": ["**/**.md"],
+          "files": [
+            "**/**.md",
+            "restapi/**.json",
+            "**/*.yml"
+          ],
           "exclude": ["**/obj/**"]
         }
       ],
