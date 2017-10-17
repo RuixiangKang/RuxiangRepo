@@ -23,3 +23,10 @@ test,test test test!!!
 > [!NOTE]
 > **Custom policies are in public preview.**
 > [localhost](http://localhost/) asdsddsadsdsdsdd
+
+
+> [!NOTE]
+This article is not up to date with the latest Visual Studio.  It will be updated.
+
+> [!NOTE]
+>This article is not up to date with the latest Visual Studio.  It will be updated.
