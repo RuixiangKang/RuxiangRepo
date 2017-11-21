@@ -1,3 +1,4 @@
+
 ---
 title: "Auswählen der Methode zum Registrieren mobiler Geräte"
 description: "Entscheiden Sie über die Registrierung mobiler Geräte in Intune durch Beantworten einiger einfacher Fragen"
@@ -28,10 +29,13 @@ Die Antworten auf die folgenden Fragen helfen Ihnen, die beste Registrierungsmet
 
 > [!div  class="button"]
 [Android >](/intune-classic/deploy-use/set-up-android-management-with-microsoft-intune)
+
 > [!div class="button"]
 [iOS und Mac >](/intune-classic/deploy-use/set-up-ios-and-mac-management-with-microsoft-intune)
+
 > [!div class="button"]
 [Windows-PCs >](/intune-classic/deploy-use/set-up-windows-device-management-with-microsoft-intune)
+
 > [!div class="button"]
 [Windows 10 Mobile und Windows Phone >](/intune-classic/deploy-use/set-up-windows-phone-management-with-microsoft-intune)
 
