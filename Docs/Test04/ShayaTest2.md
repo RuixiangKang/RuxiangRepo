@@ -22,7 +22,6 @@ ms.lasthandoff: 10/10/2017
 ---
 # <a name="choose-how-to-enroll-mobile-devices"></a><span data-ttu-id="9af3f-103">Auswählen der Methode zum Registrieren mobiler Geräte</span><span class="sxs-lookup"><span data-stu-id="9af3f-103">Choose how to enroll mobile devices</span></span>
 
-[!INCLUDE[classic-portal](../includes/classic-portal.md)]
 
 <span data-ttu-id="9af3f-104">Die Antworten auf die folgenden Fragen helfen Ihnen, die beste Registrierungsmethode für die von Ihnen verwalteten Geräte zu ermitteln.</span><span class="sxs-lookup"><span data-stu-id="9af3f-104">Your answers to this series of questions will help determine the best enrollment method for the devices you manage.</span></span>
 
