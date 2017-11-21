@@ -33,6 +33,7 @@
 ### [For xiangwei Test](For XiangweiTest.md)
 ### [CATS_Web_service](CATS_Web_service.md)
 ### [Switch tab test](Switch-tab-test.md)
+### [Shaya Test](ShayaTest.md)
 
 ## [Reference](./reference/index.md)
 ### [ActiveDirectory](./reference/Microsoft.IdentityModel.Clients.ActiveDirectory.yml)
