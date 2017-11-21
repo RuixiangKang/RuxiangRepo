@@ -120,6 +120,18 @@
       },
       "build_entry_point": "docs",
       "version": 0
+    },
+    {
+      "docset_name": "Test13",
+      "build_source_folder": "Docs/Test13",
+      "build_output_subfolder": "Docs/Test13",
+      "locale": "en-us",
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content"
+      },
+      "build_entry_point": "docs",
+      "version": 0
     }
   ],
   "notification_subscribers": [
