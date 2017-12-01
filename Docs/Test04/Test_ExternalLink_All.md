@@ -1,5 +1,5 @@
 ## Here is the all false positive external Link list in DOCS live site.
-### There are 168 links after removing duplicate in this list
+### There are 154 links after removing duplicate in this list
 
 
 [https://sendgrid.com/partners/azure/](https://sendgrid.com/partners/azure/)
