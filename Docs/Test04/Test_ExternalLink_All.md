@@ -10,12 +10,6 @@
 
 [http://aka.ms/store-8-sdk](http://aka.ms/store-8-sdk)
 
-[http://windowsstyleguide/input-and-devices/pen-and-stylus-interactions/](http://windowsstyleguide/input-and-devices/pen-and-stylus-interactions/)
-
-[http://windowsstyleguide/input-and-devices/convert-ink-to-text/](http://windowsstyleguide/input-and-devices/convert-ink-to-text/)
-
-[http://windowsstyleguide/input-and-devices/save-and-load-ink/](http://windowsstyleguide/input-and-devices/save-and-load-ink/)
-
 [http://aka.ms/store-services-sdk](http://aka.ms/store-services-sdk)
 
 [https://wiki.smaato.com/display/SPX/Windows+Phone](https://wiki.smaato.com/display/SPX/Windows+Phone)
@@ -71,8 +65,6 @@
 [http://www.binaryintellect.net/articles/8b993a74-a84a-42bd-9127-e701a03f5885.aspx](http://www.binaryintellect.net/articles/8b993a74-a84a-42bd-9127-e701a03f5885.aspx)
 
 [http://www.binaryintellect.net/articles/b58fde6b-415e-454d-985b-d5dc4ad2fca8.aspx](http://www.binaryintellect.net/articles/b58fde6b-415e-454d-985b-d5dc4ad2fca8.aspx)
-
-[http://dysphoria.net/2013/03/14/strongly-typed-action-references-in-microsoft-mvc4/](http://dysphoria.net/2013/03/14/strongly-typed-action-references-in-microsoft-mvc4/)
 
 [https://www.microsoft.com/web/webmatrix/features/](https://www.microsoft.com/web/webmatrix/features/)
 
@@ -180,8 +172,6 @@
 
 [http://yourapp/](http://yourapp/)
 
-[http://dl.google.com:443/](http://dl.google.com:443/)
-
 [https://sec.ch9.ms/sessions/69613110-c334-4f25-bb36-08e5a93456b5/170ValidateArchitectureDependenciesWithVisualStudio.mp4](https://sec.ch9.ms/sessions/69613110-c334-4f25-bb36-08e5a93456b5/170ValidateArchitectureDependenciesWithVisualStudio.mp4)
 
 [http://azure.microsoft.com/documentation/services/mobile-services/](http://azure.microsoft.com/documentation/services/mobile-services/)
@@ -202,11 +192,7 @@
 
 [http://dotnetslackers.com/articles/aspnet/ErrorLoggingModulesAndHandlers.aspx](http://dotnetslackers.com/articles/aspnet/ErrorLoggingModulesAndHandlers.aspx)
 
-[http://dotnetslackers.com/articles/aspnet/ConfiguringAndCustomizingTheHealthMonitoringSystemOfASPNET.aspx](http://dotnetslackers.com/articles/aspnet/ConfiguringAndCustomizingTheHealthMonitoringSystemOfASPNET.aspx)
-
 [https://www.microsoft.com/visualstudio/11/en-us/downloads#express-web](https://www.microsoft.com/visualstudio/11/en-us/downloads#express-web)
-
-[https://deploy.azure.com/?WT.mc_id=deploy_azure_aspnet&amp;repository=https://github.com/tfitzmac/WebAPI-ProductsApp#/form/setup](https://deploy.azure.com/?WT.mc_id=deploy_azure_aspnet&amp;repository=https://github.com/tfitzmac/WebAPI-ProductsApp#/form/setup)
 
 [http://www.martinfowler.com/articles/injection.html#FormsOfDependencyInjection](http://www.martinfowler.com/articles/injection.html#FormsOfDependencyInjection)
 
@@ -274,8 +260,6 @@
 
 [http://c2.com/cgi/wiki?PascalCase](http://c2.com/cgi/wiki?PascalCase)
 
-[http://docs.cryengine.com/display/CEPROG/CE%23+Programming](http://docs.cryengine.com/display/CEPROG/CE%23+Programming)\
-
 [http://winmtr.net/](http://winmtr.net/)
 
 [http://go.microsoft.com/fwlink/p/?linkid=320376 ](http://go.microsoft.com/fwlink/p/?linkid=320376)
@@ -313,10 +297,6 @@
 [http://download.microsoft.com/download/F/6/7/F673709C-D371-4A64-8BF9-C1DD73F60990/ENU/x86/SQLManagementStudio_x86_ENU.exe ](http://download.microsoft.com/download/F/6/7/F673709C-D371-4A64-8BF9-C1DD73F60990/ENU/x86/SQLManagementStudio_x86_ENU.exe)
 
 [http://support.livefyre.com/ ](http://support.livefyre.com/)
-
-[https://resources.azure.com/ ](https://resources.azure.com/)
-
-[http://xrdp.org/ ](http://xrdp.org/)
 
 [https://build.opensuse.org/project/show/Cloud:Tools ](https://build.opensuse.org/project/show/Cloud:Tools)
 
