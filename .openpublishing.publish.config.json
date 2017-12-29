@@ -1,20 +1,6 @@
 {
   "build_entry_point": "docs",
-  "need_generate_pdf": false,
-  "need_generate_intellisense": false,
   "docsets_to_publish": [
-    {
-      "docset_name": "Test01",
-      "build_source_folder": "Docs/Test01",
-      "build_output_subfolder": "Docs/Test01",
-      "locale": "en-us",
-      "open_to_public_contributors": true,
-      "type_mapping": {
-        "Conceptual": "Content"
-      },
-      "build_entry_point": "op",
-      "version": 0
-    },
     {
       "docset_name": "Test02",
       "build_source_folder": "Docs/Test02",
@@ -174,5 +160,7 @@
       "branch_mapping": {}
     }
   ],
-  "need_generate_pdf_url_template": false
+  "need_generate_pdf_url_template": false,
+  "need_generate_pdf": false,
+  "need_generate_intellisense": false
 }
