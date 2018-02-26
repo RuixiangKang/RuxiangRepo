@@ -5,7 +5,7 @@
 > ![I am flower](../Images/flower.jpg "This is A/t text")
 
 ### The image displayed normal with no A/t text
-    ![](../Images/flower.jpg)
+  ![](../Images/flower.jpg)
     
 ### The image displayed normal with reference insert
   ![Flower][Flower]
